@@ -1,0 +1,1539 @@
+,Unnamed: 0,parent_id,phecode,node_id,phenotype,phecode_exclude_range,sex,rollup,leaf,category_number,category
+0,0,-1,8,0,Intestinal infection,001-009.99,,1,0,1,infectious diseases
+1,1,0,8.5,1,Bacterial enteritis,001-009.99,Both,1,0,1,infectious diseases
+2,2,1,8.51,2,Intestinal e.coli,001-009.99,Both,1,1,1,infectious diseases
+3,3,1,8.52,3,Intestinal infection due to C. difficile,001-009.99,Both,1,1,1,infectious diseases
+4,4,0,8.6,4,Viral Enteritis,001-009.99,Both,1,1,1,infectious diseases
+5,5,0,8.7,5,Intestinal infection due to protozoa,001-009.99,Both,1,1,1,infectious diseases
+6,6,-1,10,6,Tuberculosis,010-041.99,,1,1,1,infectious diseases
+7,7,-1,31,7,Diseases due to other mycobacteria,010-041.99,,1,0,1,infectious diseases
+8,8,7,31.1,8,Leprosy,010-041.99,Both,1,1,1,infectious diseases
+9,9,-1,38,9,Septicemia,010-041.99,,1,0,1,infectious diseases
+10,10,9,38.1,10,Gram negative septicemia,010-041.99,Both,1,1,1,infectious diseases
+11,11,9,38.2,11,Gram positive septicemia,010-041.99,Both,1,1,1,infectious diseases
+12,12,-1,41,12,Bacterial infection NOS,010-041.99,,1,0,1,infectious diseases
+13,13,12,41.1,13,Staphylococcus infections,010-041.99,Both,1,0,1,infectious diseases
+14,14,12,41.2,14,Streptococcus infection,010-041.99,Both,1,0,1,infectious diseases
+15,15,14,41.21,15,Rheumatic fever / chorea,010-041.99,Both,1,1,1,infectious diseases
+16,16,12,41.4,16,E. coli,010-041.99,Both,1,1,1,infectious diseases
+17,17,-1,53,17,Herpes zoster,050-079.99,,1,0,1,infectious diseases
+18,18,17,53.1,18,Herpes zoster with nervous system complications,050-079.99,Both,1,1,1,infectious diseases
+19,19,-1,54,19,Herpes simplex,050-079.99,,1,1,1,infectious diseases
+20,20,-1,70,20,Viral hepatitis,050-079.99,Both,1,0,1,infectious diseases
+21,21,20,70.1,21,Viral hepatitis A,050-079.99,Both,1,1,1,infectious diseases
+22,22,20,70.2,22,Viral hepatitis B,050-079.99,Both,1,1,1,infectious diseases
+23,23,20,70.3,23,Viral hepatitis C,050-079.99,Both,1,1,1,infectious diseases
+24,24,20,70.4,24,Chronic hepatitis,050-079.99,Both,0,1,1,infectious diseases
+25,25,20,70.9,25,Hepatitis NOS,050-079.99,Both,0,1,1,infectious diseases
+26,26,-1,71.1,26,"HIV infection, symptomatic",050-079.99,Both,1,1,1,infectious diseases
+27,27,-1,78,27,Viral warts & HPV,050-079.99,,1,1,1,infectious diseases
+28,28,-1,79,28,Viral infection,050-079.99,,1,0,1,infectious diseases
+29,29,28,79.1,29,Varicella infection,050-079.99,Both,1,1,1,infectious diseases
+30,30,28,79.2,30,Infectious mononucleosis,050-079.99,Both,1,1,1,infectious diseases
+31,31,-1,80,31,Postoperative infection,080-082.99,,1,1,1,infectious diseases
+32,32,-1,81,32,Infection/inflammation of internal prosthetic device; implant; and graft,080-082.99,,1,0,1,infectious diseases
+33,33,-1,90,33,Sexually transmitted infections (not HIV or hepatitis),090-092.99,,1,0,1,infectious diseases
+34,34,33,90.2,34,Gonococcal infections,090-092.99,Both,1,1,1,infectious diseases
+35,35,33,90.3,35,Venereal diseases due to Chlamydia trachomatis,090-092.99,Both,1,1,1,infectious diseases
+36,36,-1,110.1,36,Dermatophytosis,110-118.99,Both,1,0,1,infectious diseases
+37,37,36,110.11,37,Dermatophytosis of nail,110-118.99,Both,1,1,1,infectious diseases
+38,38,36,110.12,38,Althete's foot,110-118.99,Both,1,1,1,infectious diseases
+39,39,36,110.13,39,Dermatophytosis of the body,110-118.99,Both,1,1,1,infectious diseases
+40,40,-1,110.2,40,Dermatomycoses,110-118.99,Both,1,1,1,infectious diseases
+41,41,-1,112,41,Candidiasis,110-118.99,Both,1,0,1,infectious diseases
+42,42,41,112.3,42,Candidiasis of skin and nails,110-118.99,Both,1,1,1,infectious diseases
+43,43,-1,117,43,Mycoses,110-118.99,,1,0,1,infectious diseases
+44,44,43,117.1,44,Histoplasmosis,110-118.99,Both,1,1,1,infectious diseases
+45,45,43,117.2,45,Coccidioidomycosis,110-118.99,Both,1,1,1,infectious diseases
+46,46,43,117.3,46,Blastomycotic infection,110-118.99,Both,1,1,1,infectious diseases
+47,47,43,117.4,47,Aspergillosis,110-118.99,Both,1,1,1,infectious diseases
+48,48,-1,130,48,Spirochetal infection,130-136.99,,1,0,1,infectious diseases
+49,49,48,130.1,49,Lyme disease,130-136.99,Both,1,1,1,infectious diseases
+50,50,-1,131,50,Protozoan infection,130-136.99,Both,1,1,1,infectious diseases
+51,51,-1,132,51,"Infestation (lice, mites)",130-136.99,,1,0,1,infectious diseases
+52,52,51,132.1,52,Pediculosis and phthirus infestation,130-136.99,Both,1,1,1,infectious diseases
+53,53,-1,133,53,Arthropod-borne diseases,130-136.99,,1,1,1,infectious diseases
+54,54,-1,134,54,Helminthiases,130-136.99,,1,0,1,infectious diseases
+55,55,54,134.1,55,Intestinal helminthiases,130-136.99,Both,1,1,1,infectious diseases
+56,56,-1,136,56,Other infectious and parasitic diseases,130-136.99,,1,1,1,infectious diseases
+57,57,-1,145,57,Cancer of mouth,"140-149.99, 210-210.99",Both,1,0,2,neoplasms
+58,58,57,145.1,58,Cancer of lip,"140-149.99, 210-210.99",Both,1,1,2,neoplasms
+59,59,57,145.2,59,Cancer of tongue,"140-149.99, 210-210.99",Both,1,1,2,neoplasms
+60,60,57,145.3,60,Cancer of major salivary glands,"140-149.99, 210-210.99",Both,1,1,2,neoplasms
+61,61,57,145.4,61,Cancer of the gums,"140-149.99, 210-210.99",Both,1,1,2,neoplasms
+62,62,57,145.5,62,Cancer of the mouth floor,"140-149.99, 210-210.99",Both,1,1,2,neoplasms
+63,63,-1,149,63,"Cancer of larynx, pharynx, nasal cavities","140-149.99, 210-210.99",Both,1,0,2,neoplasms
+64,64,63,149.1,64,Cancer of oropharynx,"140-149.99, 210-210.99",Both,1,1,2,neoplasms
+65,65,63,149.2,65,Cancer of nasopharynx,"140-149.99, 210-210.99",Both,1,1,2,neoplasms
+66,66,63,149.3,66,Cancer of hypopharynx,"140-149.99, 210-210.99",Both,1,1,2,neoplasms
+67,67,63,149.4,67,Cancer of larynx,"140-149.99, 210-210.99",Both,1,1,2,neoplasms
+68,68,63,149.9,68,Cancer of of nasal cavities,"140-149.99, 210-210.99",Both,1,1,2,neoplasms
+69,69,-1,150,69,Cancer of esophagus,"140-159.99, 210-211.99",,1,1,2,neoplasms
+70,70,-1,151,70,Cancer of stomach,"140-159.99, 210-211.99",,1,1,2,neoplasms
+71,71,-1,153,71,Colorectal cancer,"150-159.99, 208-208.99",Both,1,0,2,neoplasms
+72,72,71,153.2,72,Colon cancer,"150-159.99, 208-208.99",Both,1,1,2,neoplasms
+73,73,71,153.3,73,"Malignant neoplasm of rectum, rectosigmoid junction, and anus","150-159.99, 208-208.99",Both,1,1,2,neoplasms
+74,74,-1,155,74,Cancer of liver and intrahepatic bile duct,"140-159.99, 210-211.99",,1,0,2,neoplasms
+75,75,74,155.1,75,"Malignant neoplasm of liver, primary","140-159.99, 210-211.99",Both,1,1,2,neoplasms
+76,76,-1,157,76,Pancreatic cancer,"140-159.99, 210-211.99",,1,1,2,neoplasms
+77,77,-1,158,77,Neoplasm of unspecified nature of digestive system,"140-159.99, 210-211.99",Both,1,1,2,neoplasms
+78,78,-1,159,78,Malignant neoplasm of other and ill-defined sites within the digestive organs and peritoneum,"140-159.99, 210-211.99",,1,0,2,neoplasms
+79,79,78,159.2,79,"Malignant neoplasm of small intestine, including duodenum","140-159.99, 210-211.99",Both,1,1,2,neoplasms
+80,80,78,159.3,80,Malignant neoplasm of gallbladder and extrahepatic bile ducts,"140-159.99, 210-211.99",Both,1,1,2,neoplasms
+81,81,78,159.4,81,Malignant neoplasm of retroperitoneum and peritoneum,"140-159.99, 210-211.99",Both,1,1,2,neoplasms
+82,82,-1,164,82,Cancer of intrathoracic organs,160-165.99,,1,1,2,neoplasms
+83,83,-1,165,83,Cancer within the respiratory system,160-165.99,,1,0,2,neoplasms
+84,84,83,165.1,84,Cancer of bronchus; lung,160-165.99,Both,1,1,2,neoplasms
+85,85,-1,170.1,85,Bone cancer,170-171.99,Both,1,1,2,neoplasms
+86,86,-1,170.2,86,Cancer of connective tissue,170-171.99,Both,1,1,2,neoplasms
+87,87,-1,172.11,87,Melanomas of skin,172-173.99,Both,1,1,2,neoplasms
+88,88,-1,172.2,88,Other non-epithelial cancer of skin,172-173.99,Both,1,0,2,neoplasms
+89,89,-1,172.3,89,Carcinoma in situ of skin,172-173.99,Both,1,1,2,neoplasms
+90,90,-1,173,90,Neoplasm of uncertain behavior of skin,172-173.99,Both,1,1,2,neoplasms
+91,91,-1,174.1,91,Breast cancer [female],"174-184.99, 610-610.99",Female,1,0,2,neoplasms
+92,92,91,174.11,92,Malignant neoplasm of female breast,"174-184.99, 610-610.99",Female,1,1,2,neoplasms
+93,93,-1,174.3,93,Neoplasm of uncertain behavior of breast,"174-184.99, 610-610.99",Both,1,1,2,neoplasms
+94,94,-1,175,94,Acquired absence of breast,"174-184.99, 610-611.99",Female,1,1,2,neoplasms
+95,95,-1,180.1,95,Cervical cancer,"174-184.99, 218-218.99, 792-792.99",Female,1,1,2,neoplasms
+96,96,-1,180.3,96,Cervical intraepithelial neoplasia [CIN] [Cervical dysplasia],"174-184.99, 218-218.99, 792-792.99",Female,1,1,2,neoplasms
+97,97,-1,182,97,Malignant neoplasm of uterus,"174-184.99, 218-218.99",Female,1,1,2,neoplasms
+98,98,-1,184,98,Cancer of other female genital organs,"174-184.99, 220-221.99",Female,1,0,2,neoplasms
+99,99,98,184.1,99,Malignant neoplasm of ovary and other uterine adnexa,"174-184.99, 220-221.99",Female,1,0,2,neoplasms
+100,100,99,184.11,100,Malignant neoplasm of ovary,"174-184.99, 220-221.99",Female,1,1,2,neoplasms
+101,101,98,184.2,101,Cancer of other female genital organs (excluding uterus and ovary),"174-184.99, 220-221.99",Female,1,1,2,neoplasms
+102,102,-1,185,102,Cancer of prostate,"185-187.99, 796-796.99, 600-602.99",Male,1,1,2,neoplasms
+103,103,-1,187,103,Cancer of other male genital organs,"185-187.99, 222-222.99",Male,1,0,2,neoplasms
+104,104,103,187.1,104,Malignant neoplasm of unspecified male genital organ,"185-187.99, 222-222.99",Male,1,1,2,neoplasms
+105,105,103,187.2,105,Malignant neoplasm of testis,"185-187.99, 222-222.99",Male,1,1,2,neoplasms
+106,106,103,187.8,106,Neoplasm of uncertain behavior of male genital organs,"185-187.99, 222-222.99",Male,1,1,2,neoplasms
+107,107,-1,189,107,Cancer of urinary organs (incl. kidney and bladder),188-189.99,,1,0,2,neoplasms
+108,108,-1,189.11,108,"Malignant neoplasm of kidney, except pelvis",188-189.99,Both,1,1,2,neoplasms
+109,109,-1,189.12,109,Malignant neoplasm of renal pelvis,188-189.99,Both,1,1,2,neoplasms
+110,110,107,189.2,110,Cancer of bladder,188-189.99,Both,1,0,2,neoplasms
+111,111,110,189.21,111,Malignant neoplasm of bladder,188-189.99,Both,1,1,2,neoplasms
+112,112,107,189.4,112,Malignant neoplasm of other urinary organs,188-189.99,Both,1,1,2,neoplasms
+113,113,-1,190,113,Cancer of eye,"224-225.99, 190-192.99",,1,1,2,neoplasms
+114,114,-1,191,114,Manlignant and unknown neoplasms of brain and nervous system,"224-225.99, 190-192.99",,1,0,2,neoplasms
+115,115,114,191.1,115,Cancer of brain and nervous system,"224-225.99, 190-192.99",Both,1,0,2,neoplasms
+116,116,115,191.11,116,Cancer of brain,"224-225.99, 190-192.99",Both,1,1,2,neoplasms
+117,117,-1,193,117,Thyroid cancer,"193-194.99, 226-227.99",,1,1,2,neoplasms
+118,118,-1,194,118,Cancer of other endocrine glands,"193-194.99, 226-227.99",,1,1,2,neoplasms
+119,119,-1,195,119,"Cancer, suspected or other",195-199.99,,1,0,2,neoplasms
+120,120,119,195.1,120,"Malignant neoplasm, other",195-199.99,Both,1,1,2,neoplasms
+121,121,119,195.3,121,"Malignant neoplasm of head, face, and neck",195-199.99,Both,1,0,2,neoplasms
+122,122,-1,196,122,Radiotherapy,195-199.99,,1,1,2,neoplasms
+123,123,-1,197,123,Chemotherapy,195-199.99,,1,1,2,neoplasms
+124,124,-1,198,124,Secondary malignant neoplasm,195-199.99,,1,0,2,neoplasms
+125,125,124,198.1,125,Secondary malignancy of lymph nodes,195-199.99,Both,1,1,2,neoplasms
+126,126,124,198.2,126,Secondary malignancy of respiratory organs,195-199.99,Both,1,1,2,neoplasms
+127,127,124,198.3,127,Secondary malignant neoplasm of digestive systems,195-199.99,Both,1,1,2,neoplasms
+128,128,124,198.4,128,Secondary malignant neoplasm of liver,195-199.99,Both,1,1,2,neoplasms
+129,129,124,198.5,129,Secondary malignancy of brain/spine,195-199.99,Both,1,1,2,neoplasms
+130,130,124,198.6,130,Secondary malignancy of bone,195-199.99,Both,1,1,2,neoplasms
+131,131,124,198.7,131,Secondary malignant neoplasm of skin,195-199.99,Both,1,1,2,neoplasms
+132,132,-1,199,132,Neoplasm of uncertain behavior,195-199.99,Both,1,0,2,neoplasms
+133,133,132,199.4,133,Neurofibromatosis,195-199.99,Both,1,1,2,neoplasms
+134,134,-1,200,134,Myeloproliferative disease,200-204.99,,1,0,2,neoplasms
+135,135,134,200.1,135,Polycythemia vera,"200-204.99, 289-289.99",Both,1,1,2,neoplasms
+136,136,-1,201,136,Hodgkin's disease,200-204.99,,1,1,2,neoplasms
+137,137,-1,202,137,"Cancer of other lymphoid, histiocytic tissue",200-204.99,,1,0,2,neoplasms
+138,138,137,202.2,138,Non-Hodgkins lymphoma,200-204.99,Both,1,0,2,neoplasms
+139,139,138,202.21,139,Nodular lymphoma,200-204.99,Both,1,1,2,neoplasms
+140,140,138,202.23,140,Lymphosarcoma,200-204.99,Both,1,1,2,neoplasms
+141,141,138,202.24,141,Large cell lymphoma,200-204.99,Both,1,1,2,neoplasms
+142,142,-1,204,142,Leukemia,200-204.99,,1,0,2,neoplasms
+143,143,142,204.1,143,Lymphoid leukemia,200-204.99,Both,1,0,2,neoplasms
+144,144,143,204.11,144,"Lymphoid leukemia, acute",200-204.99,Both,1,1,2,neoplasms
+145,145,143,204.12,145,"Lymphoid leukemia, chronic",200-204.99,Both,1,1,2,neoplasms
+146,146,142,204.2,146,Myeloid leukemia,200-204.99,Both,1,0,2,neoplasms
+147,147,146,204.21,147,"Myeloid leukemia, acute",200-204.99,Both,1,1,2,neoplasms
+148,148,146,204.22,148,"Myeloid leukemia, chronic",200-204.99,Both,1,1,2,neoplasms
+149,149,142,204.3,149,Monocytic leukemia,200-204.99,Both,1,1,2,neoplasms
+150,150,142,204.4,150,Multiple myeloma,200-204.99,Both,1,1,2,neoplasms
+151,151,-1,208,151,Benign neoplasm of colon,"153-153.99, 208-208.99",,1,1,2,neoplasms
+152,152,-1,210,152,"Benign neoplasm of lip, oral cavity, and pharynx","140-149.99, 210-210.99",,1,1,2,neoplasms
+153,153,-1,211,153,Benign neoplasm of other parts of digestive system,"211-211.99, 150-159.99",,1,1,2,neoplasms
+154,154,-1,212,154,Benign neoplasm of respiratory and intrathoracic organs,212-212.99,,1,1,2,neoplasms
+155,155,-1,213,155,Benign neoplasm of bone and articular cartilage,210-229.99,,1,1,2,neoplasms
+156,156,-1,214,156,Lipoma,214-215.99,,1,0,2,neoplasms
+157,157,156,214.1,157,Lipoma of skin and subcutaneous tissue,214-215.99,Both,1,1,2,neoplasms
+158,158,-1,215,158,Other benign neoplasm of connective and other soft tissue,214-215.99,,1,1,2,neoplasms
+159,159,-1,216,159,Benign neoplasm of skin,216-217.99,,1,1,2,neoplasms
+160,160,-1,217,160,Vascular hamartomas and non-neoplastic nevi,216-217.99,Both,1,0,2,neoplasms
+161,161,160,217.1,161,"Nevus, non-neoplastic",216-217.99,Both,1,1,2,neoplasms
+162,162,-1,218.1,162,Uterine leiomyoma,"217-223.99, 180-184.99",Female,1,1,2,neoplasms
+163,163,-1,218.2,163,Other benign neoplasm of uterus,"217-223.99, 180-184.99",Female,1,1,2,neoplasms
+164,164,-1,220,164,Benign neoplasm of ovary,"174-184.99, 217-221.99",Female,1,1,2,neoplasms
+165,165,-1,221,165,Benign neoplasm of other female genital organs,"217-223.99, 174-184.99",Female,1,1,2,neoplasms
+166,166,-1,222,166,Benign neoplasm of male genital organs,"185-187.99, 222-222.99",Male,1,1,2,neoplasms
+167,167,-1,223,167,Benign neoplasm of kidney and other urinary organs,210-229.99,,1,1,2,neoplasms
+168,168,-1,224,168,Benign neoplasm of eye,"224-225.99, 190-192.99",Both,1,0,2,neoplasms
+169,169,168,224.1,169,"Benign neoplasm of eye, uveal","224-225.99, 190-192.99",Both,1,1,2,neoplasms
+170,170,-1,225,170,Benign neoplasm of brain and other parts of nervous system,"224-225.99, 190-192.99",,1,0,2,neoplasms
+171,171,170,225.1,171,"Benign neoplasm of brain, cranial nerves, meninges","224-225.99, 190-192.99",Both,1,1,2,neoplasms
+172,172,170,225.2,172,"Benign neoplasm of spinal cord, meninges","224-225.99, 190-192.99",Both,1,1,2,neoplasms
+173,173,-1,226,173,Benign neoplasm of thyroid glands,"193-194.99, 226-227.99",,1,1,2,neoplasms
+174,174,-1,227,174,Benign neoplasm of other endocrine glands and related structures,"193-194.99, 226-227.99",,1,0,2,neoplasms
+175,175,174,227.1,175,Benign neoplasm of adrenal gland,"193-194.99, 226-227.99",Both,1,1,2,neoplasms
+176,176,174,227.2,176,Benign neoplasm of parathyroid gland,"193-194.99, 226-227.99",Both,1,1,2,neoplasms
+177,177,174,227.3,177,Benign neoplasm of pituitary gland and craniopharyngeal duct (pouch),"193-194.99, 226-227.99",Both,1,1,2,neoplasms
+178,178,-1,228,178,"Hemangioma and lymphangioma, any site",228-228.99,Both,1,0,2,neoplasms
+179,179,-1,229,179,Benign neoplasm of unspecified sites,229-229.99,,1,0,2,neoplasms
+180,180,179,229.1,180,Benign neoplasm of lymph nodes,229-229.99,Both,1,1,2,neoplasms
+181,181,-1,230,181,Kaposi's sarcoma,230-230.99,,1,1,2,neoplasms
+182,182,-1,240,182,Simple and unspecified goiter,240-246.99,,1,1,3,endocrine/metabolic
+183,183,-1,241,183,Nontoxic nodular goiter,240-246.99,Both,1,0,3,endocrine/metabolic
+184,184,183,241.1,184,Nontoxic uninodular goiter,240-246.99,Both,1,1,3,endocrine/metabolic
+185,185,183,241.2,185,Nontoxic multinodular goiter,240-246.99,Both,1,1,3,endocrine/metabolic
+186,186,-1,242,186,Thyrotoxicosis with or without goiter,240-246.99,,1,0,3,endocrine/metabolic
+187,187,186,242.1,187,Graves' disease,240-246.99,,1,1,3,endocrine/metabolic
+188,188,186,242.2,188,Toxic multinodular goiter,240-246.99,Both,1,1,3,endocrine/metabolic
+189,189,186,242.3,189,Exophthalmos,240-246.99,Both,0,0,3,endocrine/metabolic
+190,190,-1,244.1,190,Secondary hypothyroidism,240-246.99,,1,1,3,endocrine/metabolic
+191,191,-1,244.2,191,Acquired hypothyroidism,240-246.99,Both,1,1,3,endocrine/metabolic
+192,192,-1,244.4,192,Hypothyroidism NOS,240-246.99,Both,1,1,3,endocrine/metabolic
+193,193,-1,244.5,193,Congenital hypothyroidism,240-246.99,Both,1,1,3,endocrine/metabolic
+194,194,-1,245,194,Thyroiditis,240-246.99,Both,1,0,3,endocrine/metabolic
+195,195,194,245.1,195,"Thyroiditis, acute and subacute",240-246.99,Both,1,1,3,endocrine/metabolic
+196,196,194,245.2,196,Chronic thyroiditis,240-246.99,Both,1,0,3,endocrine/metabolic
+197,197,196,245.21,197,Chronic lymphocytic thyroiditis,240-246.99,Both,1,1,3,endocrine/metabolic
+198,198,-1,246,198,Other disorders of thyroid,240-246.99,Both,1,0,3,endocrine/metabolic
+199,199,198,246.7,199,Abnormal results of function study of thyroid,240-246.99,Both,0,1,3,endocrine/metabolic
+200,200,-1,249,200,Secondary diabetes mellitus,249-250.99,,1,1,3,endocrine/metabolic
+201,201,-1,250.1,201,Type 1 diabetes,249-250.99,Both,1,0,3,endocrine/metabolic
+202,202,201,250.11,202,Type 1 diabetes with ketoacidosis,249-250.99,Both,1,1,3,endocrine/metabolic
+203,203,201,250.12,203,Type 1 diabetes with renal manifestations,249-250.99,Both,1,1,3,endocrine/metabolic
+204,204,201,250.13,204,Type 1 diabetes with ophthalmic manifestations,249-250.99,Both,1,1,3,endocrine/metabolic
+205,205,-1,250.2,205,Type 2 diabetes,249-250.99,Both,1,0,3,endocrine/metabolic
+206,206,205,250.21,206,Type 2 diabetes with ketoacidosis,249-250.99,Both,1,1,3,endocrine/metabolic
+207,207,205,250.22,207,Type 2 diabetes with renal manifestations,249-250.99,Both,1,1,3,endocrine/metabolic
+208,208,205,250.23,208,Type 2 diabetes with ophthalmic manifestations,249-250.99,Both,1,1,3,endocrine/metabolic
+209,209,205,250.24,209,Type 2 diabetes with neurological manifestations,249-250.99,Both,1,1,3,endocrine/metabolic
+210,210,-1,250.3,210,Insulin pump user,249-250.99,Both,1,1,3,endocrine/metabolic
+211,211,-1,250.41,211,Impaired fasting glucose,249-250.99,Both,1,1,3,endocrine/metabolic
+212,212,-1,250.42,212,Other abnormal glucose,249-250.99,Both,1,1,3,endocrine/metabolic
+213,213,-1,250.5,213,Glycosuria or Acetonuria,249-250.99,Both,1,1,3,endocrine/metabolic
+214,214,-1,250.6,214,Polyneuropathy in diabetes,249-250.99,Both,1,1,3,endocrine/metabolic
+215,215,-1,250.7,215,Diabetic retinopathy,"250.70-250.79,360-365.99",Both,1,1,3,endocrine/metabolic
+216,216,-1,251,216,Other disorders of pancreatic internal secretion,251-259.99,Both,1,0,3,endocrine/metabolic
+217,217,216,251.1,217,Hypoglycemia,249-259.99,Both,0,1,3,endocrine/metabolic
+218,218,216,251.8,218,Abnormality of secretion of glucagon or gastrin,251-259.99,Both,1,1,3,endocrine/metabolic
+219,219,-1,252,219,Disorders of parathyroid gland,251-259.99,,1,0,3,endocrine/metabolic
+220,220,219,252.1,220,Hyperparathyroidism,251-259.99,,1,1,3,endocrine/metabolic
+221,221,219,252.2,221,Hypoparathyroidism,251-259.99,Both,1,1,3,endocrine/metabolic
+222,222,-1,253,222,Disorders of the pituitary gland and its hypothalamic control,251-259.99,,1,0,3,endocrine/metabolic
+223,223,222,253.1,223,Pituitary hyperfunction,251-259.99,Both,1,0,3,endocrine/metabolic
+224,224,223,253.11,224,Acromegaly and gigantism,251-259.99,Both,1,1,3,endocrine/metabolic
+225,225,222,253.2,225,Pituitary hypofunction,251-259.99,Both,1,1,3,endocrine/metabolic
+226,226,222,253.3,226,Diabetes insipidus,251-259.99,Both,1,1,3,endocrine/metabolic
+227,227,222,253.7,227,Other disorders of neurohypophysis,251-259.99,Both,1,1,3,endocrine/metabolic
+228,228,-1,254,228,Diseases of thymus gland,251-259.99,Both,1,1,3,endocrine/metabolic
+229,229,-1,255,229,Disorders of adrenal glands,251-259.99,,1,0,3,endocrine/metabolic
+230,230,229,255.1,230,Adrenal hyperfunction,251-259.99,Both,1,0,3,endocrine/metabolic
+231,231,230,255.11,231,Cushing's syndrome,251-259.99,Both,1,1,3,endocrine/metabolic
+232,232,230,255.12,232,Hyperaldosteronism,251-259.99,Both,1,1,3,endocrine/metabolic
+233,233,230,255.13,233,Medulloadrenal hyperfunction,251-259.99,Both,1,1,3,endocrine/metabolic
+234,234,-1,255.21,234,Glucocorticoid deficiency,251-259.99,Both,1,1,3,endocrine/metabolic
+235,235,229,255.3,235,Adrenogenital disorders,251-259.99,Both,1,1,3,endocrine/metabolic
+236,236,-1,256,236,Ovarian dysfunction,251-259.99,Female,1,0,3,endocrine/metabolic
+237,237,236,256.4,237,Polycystic ovaries,251-259.99,Female,1,1,3,endocrine/metabolic
+238,238,-1,257,238,Testicular dysfunction,251-259.99,Male,1,0,3,endocrine/metabolic
+239,239,238,257.1,239,Testicular hypofunction,251-259.99,Male,1,1,3,endocrine/metabolic
+240,240,-1,258,240,Iatrogenic endocrine disorders,251-259.99,,1,1,3,endocrine/metabolic
+241,241,240,258.1,241,Postablative ovarian failure,251-259.99,Female,0,1,3,endocrine/metabolic
+242,242,-1,259,242,Other endocrine disorders,251-259.99,,1,0,3,endocrine/metabolic
+243,243,242,259.1,243,Nonspecific abnormal results of other endocrine function study,251-259.99,Both,1,1,3,endocrine/metabolic
+244,244,242,259.2,244,Carcinoid syndrome,251-259.99,Both,0,1,3,endocrine/metabolic
+245,245,242,259.3,245,Delay in sexual development and puberty NEC,251-259.99,Both,0,1,3,endocrine/metabolic
+246,246,242,259.4,246,Precocious sexual development and puberty NEC,251-259.99,Both,0,1,3,endocrine/metabolic
+247,247,-1,260,247,Protein-calorie malnutrition,260-264.99,,1,0,3,endocrine/metabolic
+248,248,247,260.1,248,Cachexia,260-264.99,Both,0,1,3,endocrine/metabolic
+249,249,247,260.2,249,severe protein-calorie malnutrition,260-264.99,Both,1,0,3,endocrine/metabolic
+250,250,249,260.22,250,Nutritional marasmus,260-264.99,Both,1,1,3,endocrine/metabolic
+251,251,247,260.6,251,Anorexia,260-264.99,Both,0,1,3,endocrine/metabolic
+252,252,247,260.7,252,Polyphagia,260-264.99,Both,0,1,3,endocrine/metabolic
+253,253,-1,261,253,Vitamin deficiency,260-264.99,Both,1,0,3,endocrine/metabolic
+254,254,253,261.1,254,Vitamin A deficiency,260-264.99,Both,1,1,3,endocrine/metabolic
+255,255,253,261.2,255,Vitamin B-complex deficiencies,260-264.99,Both,1,1,3,endocrine/metabolic
+256,256,253,261.3,256,Vitamin C deficiencies,260-264.99,Both,1,1,3,endocrine/metabolic
+257,257,253,261.4,257,Vitamin D deficiency,260-264.99,Both,1,0,3,endocrine/metabolic
+258,258,257,261.41,258,Rickets or osteomalacia,260-264.99,Both,1,1,3,endocrine/metabolic
+259,259,-1,262,259,Mineral deficiency NEC,260-264.99,Both,1,1,3,endocrine/metabolic
+260,260,-1,263,260,Other nutritional deficiency,260-264.99,,1,1,3,endocrine/metabolic
+261,261,-1,264.9,261,"Lack of normal physiological development, unspecified",260-264.99,Both,1,1,3,endocrine/metabolic
+262,262,-1,269,262,Proteinuria,269-270.99,Both,1,1,3,endocrine/metabolic
+263,263,-1,270.1,263,Disturbances of amino-acid transport,269-270.99,Both,1,0,3,endocrine/metabolic
+264,264,263,270.11,264,Disturbances of sulphur-bearing amino-acid metabolism,269-270.99,Both,1,1,3,endocrine/metabolic
+265,265,263,270.12,265,Phenylketonuria [PKU],269-270.99,Both,1,1,3,endocrine/metabolic
+266,266,-1,270.2,266,Disorders of amino-acid metabolism,269-270.99,Both,1,0,3,endocrine/metabolic
+267,267,266,270.21,267,Disorders of urea cycle metabolism,269-270.99,Both,1,1,3,endocrine/metabolic
+268,268,-1,270.31,268,Polyclonal hypergammaglobulinemia,269-270.99,Both,1,1,3,endocrine/metabolic
+269,269,-1,270.32,269,Paraproteinemia,269-270.99,Both,1,1,3,endocrine/metabolic
+270,270,-1,270.33,270,Amyloidosis,269-270.99,Both,0,1,3,endocrine/metabolic
+271,271,-1,270.35,271,Macroglobulinemia,269-270.99,Both,1,1,3,endocrine/metabolic
+272,272,-1,271.3,272,Intestinal disaccharidase deficiencies and disaccharide malabsorption,271-271.99,Both,1,1,3,endocrine/metabolic
+273,273,-1,271.9,273,Other disorders of carbohydrate transport and metabolism,271-271.99,Both,1,1,3,endocrine/metabolic
+274,274,-1,272.1,274,Hyperlipidemia,272-272.99,,1,0,3,endocrine/metabolic
+275,275,274,272.11,275,Hypercholesterolemia,272-272.99,Both,1,1,3,endocrine/metabolic
+276,276,274,272.12,276,Hyperglyceridemia,272-272.99,Both,1,1,3,endocrine/metabolic
+277,277,274,272.13,277,Mixed hyperlipidemia,272-272.99,Both,1,1,3,endocrine/metabolic
+278,278,274,272.14,278,Hyperchylomicronemia,272-272.99,Both,1,1,3,endocrine/metabolic
+279,279,-1,272.9,279,Unspecified disorder of lipoid metabolism,272-272.99,Both,1,1,3,endocrine/metabolic
+280,280,-1,274.1,280,Gout,274-274.99,Both,1,0,3,endocrine/metabolic
+281,281,280,274.11,281,Gouty arthropathy,274-274.99,Both,1,1,3,endocrine/metabolic
+282,282,-1,274.2,282,Crystal arthropathies,274-274.99,Both,1,0,3,endocrine/metabolic
+283,283,282,274.21,283,Chondrocalcinosis,274-274.99,Both,1,1,3,endocrine/metabolic
+284,284,-1,275,284,Disorders of mineral metabolism,275-275.99,,1,0,3,endocrine/metabolic
+285,285,284,275.1,285,Disorders of iron metabolism,275-275.99,,1,0,4,hematopoietic
+286,286,284,275.2,286,Disorders of copper metabolism,275-275.99,,1,1,3,endocrine/metabolic
+287,287,284,275.3,287,Disorders of magnesium metabolism,275-275.99,,1,1,3,endocrine/metabolic
+288,288,284,275.5,288,Disorders of calcium/phosphorus metabolism,275-275.99,,1,0,3,endocrine/metabolic
+289,289,288,275.53,289,Disorders of phosphorus metabolism,275-275.99,Both,1,1,3,endocrine/metabolic
+290,290,-1,276.1,290,Electrolyte imbalance,276-276.99,Both,1,0,3,endocrine/metabolic
+291,291,290,276.11,291,Hyperosmolality and/or hypernatremia,276-276.99,Both,1,1,3,endocrine/metabolic
+292,292,290,276.12,292,Hyposmolality and/or hyponatremia,276-276.99,Both,1,1,3,endocrine/metabolic
+293,293,290,276.13,293,Hyperpotassemia,276-276.99,Both,1,1,3,endocrine/metabolic
+294,294,290,276.14,294,Hypopotassemia,276-276.99,Both,1,1,3,endocrine/metabolic
+295,295,-1,276.4,295,Acid-base balance disorder,276-276.99,Both,0,0,3,endocrine/metabolic
+296,296,295,276.41,296,Acidosis,276-276.99,Both,1,1,3,endocrine/metabolic
+297,297,295,276.42,297,Alkalosis,276-276.99,Both,1,1,3,endocrine/metabolic
+298,298,-1,276.5,298,Hypovolemia,276-276.99,Both,1,1,3,endocrine/metabolic
+299,299,-1,276.6,299,Fluid overload,276-276.99,Both,1,1,3,endocrine/metabolic
+300,300,-1,276.8,300,Polydipsia,276-276.99,Both,0,1,3,endocrine/metabolic
+301,301,-1,277,301,Other disorders of metabolism,277-277.99,,1,0,3,endocrine/metabolic
+302,302,301,277.1,302,Disorders of porphyrin metabolism,277-277.99,Both,1,1,3,endocrine/metabolic
+303,303,301,277.2,303,Other disorders of purine and pyrimidine metabolism,277-277.99,Both,1,1,3,endocrine/metabolic
+304,304,301,277.4,304,Disorders of bilirubin excretion,277-277.99,,0,1,3,endocrine/metabolic
+305,305,301,277.5,305,Other disorders of lipoid metabolism,277-277.99,,0,0,3,endocrine/metabolic
+306,306,305,277.51,306,Lipoprotein disorders,277-277.99,Both,1,1,3,endocrine/metabolic
+307,307,-1,278,307,"Overweight, obesity and other hyperalimentation",278-278.99,Both,1,0,3,endocrine/metabolic
+308,308,307,278.1,308,Obesity,278-278.99,Both,1,0,3,endocrine/metabolic
+309,309,307,278.3,309,Localized adiposity,278-278.99,Both,1,1,3,endocrine/metabolic
+310,310,307,278.4,310,Abnormal weight gain,278-278.99,Both,1,1,3,endocrine/metabolic
+311,311,-1,279,311,Disorders involving the immune mechanism,279-279.99,,1,0,3,endocrine/metabolic
+312,312,311,279.1,312,Immunity deficiency,279-279.99,Both,1,0,3,endocrine/metabolic
+313,313,312,279.11,313,Deficiency of humoral immunity,279-279.99,Both,1,1,3,endocrine/metabolic
+314,314,311,279.7,314,Other immunological findings,279-279.99,Both,0,1,3,endocrine/metabolic
+315,315,311,279.8,315,Other specified disorders involving the immune mechanism,279-279.99,Both,1,1,3,endocrine/metabolic
+316,316,-1,280.1,316,"Iron deficiency anemias, unspecified or not due to blood loss",280-285.99,Both,1,1,4,hematopoietic
+317,317,-1,280.2,317,Iron deficiency anemia secondary to blood loss (chronic),280-285.99,Both,1,1,4,hematopoietic
+318,318,-1,281,318,Other deficiency anemia,280-285.99,,1,0,4,hematopoietic
+319,319,318,281.1,319,Megaloblastic anemia,280-285.99,,1,0,4,hematopoietic
+320,320,319,281.11,320,Pernicious anemia,280-285.99,Both,1,1,4,hematopoietic
+321,321,319,281.12,321,Other vitamin B12 deficiency anemia,280-285.99,Both,1,1,4,hematopoietic
+322,322,319,281.13,322,Folate-deficiency anemia,280-285.99,Both,1,1,4,hematopoietic
+323,323,318,281.9,323,Deficiency anemias,280-285.99,Both,1,1,4,hematopoietic
+324,324,-1,282.5,324,Sickle cell anemia,280-285.99,,1,1,4,hematopoietic
+325,325,-1,282.8,325,Other hemoglobinopathies,280-285.99,Both,1,1,4,hematopoietic
+326,326,-1,282.9,326,Other hereditary hemolytic anemias,280-285.99,Both,1,1,4,hematopoietic
+327,327,-1,283,327,Acquired hemolytic anemias,280-285.99,,1,0,4,hematopoietic
+328,328,327,283.1,328,Autoimmune hemolytic anemias,280-285.99,,1,1,4,hematopoietic
+329,329,327,283.2,329,Non-autoimmune hemolytic anemias,280-285.99,Both,1,0,4,hematopoietic
+330,330,329,283.21,330,Hemolytic-uremic syndrome,280-285.99,Both,1,1,4,hematopoietic
+331,331,-1,284,331,Aplastic anemia,280-285.99,,1,0,4,hematopoietic
+332,332,331,284.2,332,Constitutional aplastic anemia,280-285.99,Both,1,1,4,hematopoietic
+333,333,-1,285,333,Other anemias,280-285.99,,1,0,4,hematopoietic
+334,334,333,285.1,334,Acute posthemorrhagic anemia,280-285.99,Both,1,1,4,hematopoietic
+335,335,333,285.2,335,Anemia of chronic disease,280-285.99,Both,1,0,4,hematopoietic
+336,336,335,285.22,336,Anemia in neoplastic disease,280-285.99,Both,1,1,4,hematopoietic
+337,337,333,285.3,337,Sideroblastic anemia,280-285.99,Both,1,1,4,hematopoietic
+338,338,333,285.8,338,Hemoglobinuria,280-285.99,Both,0,1,4,hematopoietic
+339,339,-1,286.1,339,Congenital coagulation defects,286-287.99,Both,1,0,4,hematopoietic
+340,340,339,286.11,340,Von willebrand's disease,286-287.99,Both,1,1,4,hematopoietic
+341,341,339,286.12,341,Congenital deficiency of other clotting factors (including factor VII),286-287.99,Both,1,1,4,hematopoietic
+342,342,339,286.13,342,Congenital factor VIII disorder,286-287.99,Both,1,1,4,hematopoietic
+343,343,-1,286.3,343,Coagulation defects complicating pregnancy or postpartum,286-287.99,Female,0,1,4,hematopoietic
+344,344,-1,286.4,344,Acquired coagulation factor deficiency,286-287.99,Both,1,1,4,hematopoietic
+345,345,-1,286.5,345,Hemorrhagic disorder due to intrinsic circulating anticoagulants,286-287.99,Both,1,1,4,hematopoietic
+346,346,-1,286.6,346,Defibrination syndrome,286-287.99,Both,1,1,4,hematopoietic
+347,347,-1,286.7,347,Other and unspecified coagulation defects,286-287.99,Both,1,1,4,hematopoietic
+348,348,-1,287,348,Purpura and other hemorrhagic conditions,286-287.99,,1,0,4,hematopoietic
+349,349,348,287.1,349,Spontaneous ecchymoses,286-287.99,Both,0,1,4,hematopoietic
+350,350,348,287.2,350,Allergic purpura,286-287.99,Both,1,1,4,hematopoietic
+351,351,348,287.3,351,Thrombocytopenia,286-287.99,Both,1,0,4,hematopoietic
+352,352,351,287.31,352,Primary thrombocytopenia,286-287.99,Both,1,1,4,hematopoietic
+353,353,351,287.32,353,Secondary thrombocytopenia,286-287.99,Both,1,1,4,hematopoietic
+354,354,348,287.4,354,Qualitative platelet defects,286-287.99,Both,1,1,4,hematopoietic
+355,355,-1,288,355,Diseases of white blood cells,288-289.99,Both,1,0,4,hematopoietic
+356,356,-1,288.11,356,Neutropenia,288-289.99,Both,1,1,4,hematopoietic
+357,357,355,288.3,357,Eosinophilia,288-289.99,Both,1,1,4,hematopoietic
+358,358,-1,289,358,Other diseases of blood and blood-forming organs,288-289.99,,1,0,4,hematopoietic
+359,359,358,289.3,359,Personal history of diseases of blood and blood-forming organs,288-289.99,Both,1,1,4,hematopoietic
+360,360,358,289.4,360,Lymphadenitis,288-289.99,Both,0,1,4,hematopoietic
+361,361,358,289.5,361,Diseases of spleen,288-289.99,Both,0,1,4,hematopoietic
+362,362,358,289.8,362,"Polycythemia, secondary","288-289.99, 200-200.99",Both,0,1,4,hematopoietic
+363,363,358,289.9,363,Abnormality of red blood cells,288-289.99,Both,1,1,4,hematopoietic
+364,364,-1,290,364,Delirium dementia and amnestic and other cognitive disorders,290-292.99,,1,0,5,mental disorders
+365,365,364,290.1,365,Dementias,290-292.99,Both,1,0,5,mental disorders
+366,366,365,290.11,366,Alzheimer's disease,290-292.99,Both,1,1,5,mental disorders
+367,367,365,290.12,367,Dementia with cerebral degenerations,290-292.99,Both,1,1,5,mental disorders
+368,368,365,290.16,368,Vascular dementia,290-292.99,Both,1,1,5,mental disorders
+369,369,364,290.2,369,Delirium due to conditions classified elsewhere,290-292.99,Both,1,1,5,mental disorders
+370,370,364,290.3,370,Other persistent mental disorders due to conditions classified elsewhere,290-292.99,Both,0,1,5,mental disorders
+371,371,-1,291.1,371,Transient mental disorders due to conditions classified elsewhere,290-292.99,Both,1,1,5,mental disorders
+372,372,-1,291.4,372,Specific nonpsychotic mental disorders due to brain damage,290-292.99,Both,1,1,5,mental disorders
+373,373,-1,291.8,373,Alteration of consciousness,290-292.99,Both,1,1,5,mental disorders
+374,374,-1,292,374,Neurological disorders,290-292.99,Both,1,0,5,mental disorders
+375,375,374,292.1,375,Aphasia/speech disturbance,290-292.99,Both,1,0,5,mental disorders
+376,376,375,292.12,376,Symbolic dysfunction,290-292.99,Both,1,1,5,mental disorders
+377,377,374,292.2,377,Mild cognitive impairment,290-292.99,Both,1,1,5,mental disorders
+378,378,374,292.3,378,Memory loss,290-292.99,Both,1,1,5,mental disorders
+379,379,374,292.4,379,Altered mental status,290-292.99,Both,1,1,5,mental disorders
+380,380,374,292.6,380,Hallucinations,290-292.99,Both,1,1,5,mental disorders
+381,381,-1,293,381,Symptoms involving head and neck,293-293.99,,1,1,5,mental disorders
+382,382,381,293.1,382,"Swelling, mass, or lump in head and neck [Space-occupying lesion, intracranial NOS]",293-293.99,Both,0,1,5,mental disorders
+383,383,-1,295,383,Schizophrenia and other psychotic disorders,295-306.99,,1,0,5,mental disorders
+384,384,383,295.1,384,Schizophrenia,295-306.99,Both,1,1,5,mental disorders
+385,385,383,295.2,385,Paranoid disorders,295-306.99,Both,1,1,5,mental disorders
+386,386,383,295.3,386,Psychosis,295-306.99,Both,1,1,5,mental disorders
+387,387,-1,296,387,Mood disorders,295-306.99,,1,0,5,mental disorders
+388,388,387,296.1,388,Bipolar,295-306.99,,1,1,5,mental disorders
+389,389,-1,296.22,389,Major depressive disorder,295-306.99,Both,1,1,5,mental disorders
+390,390,-1,297,390,Suicidal ideation or attempt,295-306.99,,1,0,5,mental disorders
+391,391,390,297.2,391,Suicide or self-inflicted injury,295-306.99,Both,1,1,5,mental disorders
+392,392,-1,300,392,Anxiety disorders,295-306.99,Both,1,0,5,mental disorders
+393,393,392,300.1,393,Anxiety disorder,295-306.99,Both,1,0,5,mental disorders
+394,394,393,300.11,394,Generalized anxiety disorder,295-306.99,Both,1,1,5,mental disorders
+395,395,393,300.12,395,"Agorophobia, social phobia, and panic disorder",295-306.99,Both,1,1,5,mental disorders
+396,396,393,300.13,396,Phobia,295-306.99,Both,1,1,5,mental disorders
+397,397,392,300.3,397,Obsessive-compulsive disorders,295-306.99,Both,1,1,5,mental disorders
+398,398,392,300.4,398,Dysthymic disorder,295-306.99,Both,1,1,5,mental disorders
+399,399,392,300.8,399,Acute reaction to stress,295-306.99,Both,1,1,5,mental disorders
+400,400,392,300.9,400,Posttraumatic stress disorder,295-306.99,Both,1,1,5,mental disorders
+401,401,-1,301,401,Personality disorders,295-306.99,,1,0,5,mental disorders
+402,402,401,301.1,402,Schizoid personality disorder,295-306.99,Both,1,1,5,mental disorders
+403,403,401,301.2,403,Antisocial/borderline personality disorder,295-306.99,Both,1,1,5,mental disorders
+404,404,-1,302,404,Sexual and gender identity disorders,295-306.99,,1,0,5,mental disorders
+405,405,404,302.1,405,Decreased libido,295-306.99,,1,1,5,mental disorders
+406,406,-1,303,406,Psychogenic and somatoform disorders,295-306.99,Both,1,0,5,mental disorders
+407,407,406,303.1,407,Dissociative disorder,295-306.99,Both,0,1,5,mental disorders
+408,408,406,303.3,408,Psychogenic disorder,295-306.99,Both,1,0,5,mental disorders
+409,409,406,303.4,409,Somatoform disorder,295-306.99,Both,1,1,5,mental disorders
+410,410,-1,304,410,Adjustment reaction,295-306.99,Both,1,1,5,mental disorders
+411,411,-1,305.2,411,Eating disorder,295-306.99,Both,0,0,5,mental disorders
+412,412,411,305.21,412,Anorexia nervosa,295-306.99,Both,1,1,5,mental disorders
+413,413,-1,306,413,Other mental disorder,295-306.99,Both,1,0,5,mental disorders
+414,414,413,306.9,414,Tension headache,295-306.99,Both,1,1,5,mental disorders
+415,415,-1,312,415,Conduct disorders,312-315.99,,1,0,5,mental disorders
+416,416,415,312.3,416,Impulse control disorder,312-315.99,Both,1,1,5,mental disorders
+417,417,-1,313,417,Pervasive developmental disorders,312-315.99,,1,0,5,mental disorders
+418,418,417,313.2,418,Tics and stuttering,312-315.99,Both,1,1,5,mental disorders
+419,419,417,313.3,419,Autism,312-315.99,Both,1,1,5,mental disorders
+420,420,-1,315,420,Develomental delays and disorders,312-315.99,Both,1,0,5,mental disorders
+421,421,420,315.1,421,Learning disorder,312-315.99,Both,0,1,5,mental disorders
+422,422,420,315.2,422,Speech and language disorder,312-315.99,Both,1,1,5,mental disorders
+423,423,420,315.3,423,Mental retardation,312-315.99,Both,1,1,5,mental disorders
+424,424,-1,316,424,Substance addiction and disorders,316-319.99,,1,0,5,mental disorders
+425,425,424,316.1,425,Polyneuropathy due to drugs,316-319.99,Both,1,1,5,mental disorders
+426,426,-1,317,426,Alcohol-related disorders,316-319.99,,1,0,5,mental disorders
+427,427,426,317.1,427,Alcoholism,316-319.99,Both,1,0,5,mental disorders
+428,428,427,317.11,428,Alcoholic liver damage,316-319.99,Both,1,1,5,mental disorders
+429,429,-1,318,429,Tobacco use disorder,316-319.99,Both,1,1,5,mental disorders
+430,430,-1,320,430,Meningitis,320-326.9,,1,1,6,neurological
+431,431,-1,323,431,Encephalitis,320-326.9,,1,0,6,neurological
+432,432,431,323.2,432,Acute (transverse) myelitis,320-326.9,Both,1,1,6,neurological
+433,433,-1,324,433,Other CNS infection and poliomyelitis,320-326.9,,1,0,6,neurological
+434,434,433,324.1,434,Jakob-Creutzfeldt disease,320-326.9,Both,1,1,6,neurological
+435,435,-1,325,435,Phlebitis and thrombophlebitis of intracranial venous sinuses,320-326.9,,1,1,6,neurological
+436,436,-1,327,436,Sleep disorders,327-328.99,Both,1,0,6,neurological
+437,437,436,327.1,437,Hypersomnia,327-328.99,Both,1,1,6,neurological
+438,438,436,327.3,438,Sleep apnea,327-328.99,Both,0,0,6,neurological
+439,439,436,327.4,439,Insomnia,327-328.99,Both,1,0,6,neurological
+440,440,439,327.41,440,Organic or persistent insomnia,327-328.99,Both,1,1,6,neurological
+441,441,436,327.5,441,Parasomnia,327-328.99,Both,1,1,6,neurological
+442,442,436,327.6,442,Circadian rhythm sleep disorder,327-328.99,Both,1,1,6,neurological
+443,443,-1,331,443,Other cerebral degenerations,"330-337.99, 341-349.99",,1,0,6,neurological
+444,444,443,331.1,444,Hydrocephalus,"330-337.99, 341-349.99",Both,1,1,6,neurological
+445,445,443,331.9,445,"Cerebral degeneration, unspecified","330-337.99, 341-349.99",Both,1,1,6,neurological
+446,446,-1,332,446,Parkinson's disease,"330-337.99, 341-349.99",,1,1,6,neurological
+447,447,-1,333,447,Extrapyramidal disease and abnormal movement disorders,"330-337.99, 341-349.99",Both,1,0,6,neurological
+448,448,447,333.1,448,Essential tremor,"330-337.99, 341-349.99",Both,1,1,6,neurological
+449,449,447,333.2,449,Myoclonus,"330-337.99, 341-349.99",Both,1,1,6,neurological
+450,450,447,333.3,450,Tics and choreas,"330-337.99, 341-349.99",Both,1,1,6,neurological
+451,451,447,333.4,451,Torsion dystonia,"330-337.99, 341-349.99",Both,1,1,6,neurological
+452,452,447,333.8,452,Other degenerative diseases of the basal ganglia,"330-337.99, 341-349.99",Both,1,1,6,neurological
+453,453,-1,334,453,Degenerative disease of the spinal cord,"330-337.99, 341-349.99",,1,0,6,neurological
+454,454,453,334.1,454,Spinocerebellar disease,"330-337.99, 341-349.99",Both,1,1,6,neurological
+455,455,453,334.2,455,Anterior horn cell disease,"330-337.99, 341-349.99",Both,1,0,6,neurological
+456,456,-1,335,456,Multiple sclerosis,"330-337.99, 341-349.99",,1,1,6,neurological
+457,457,-1,337,457,Disorders of the autonomic nervous system,"330-337.99, 341-349.99",,1,0,6,neurological
+458,458,457,337.1,458,Peripheral autonomic neuropathy,"330-337.99, 341-349.99",Both,1,1,6,neurological
+459,459,-1,338.1,459,Acute pain,338-338.9,Both,1,1,6,neurological
+460,460,-1,338.2,460,Chronic pain,338-338.9,Both,1,1,6,neurological
+461,461,-1,339,461,Other headache syndromes,339-340.99,,1,1,6,neurological
+462,462,-1,340,462,Migraine,339-340.99,,1,0,6,neurological
+463,463,462,340.1,463,Migrain with aura,339-340.99,Both,1,1,6,neurological
+464,464,-1,341,464,Other demyelinating diseases of central nervous system,"330-337.99, 341-349.99",,1,1,6,neurological
+465,465,-1,342,465,Hemiplegia,"330-337.99, 341-349.99",,1,1,6,neurological
+466,466,-1,343,466,Infantile cerebral palsy,"330-337.99, 341-349.99",,1,1,6,neurological
+467,467,-1,344,467,Other paralytic syndromes,"330-337.99, 341-349.99",,1,1,6,neurological
+468,468,-1,345,468,"Epilepsy, recurrent seizures, convulsions","330-337.99, 341-349.99",,1,0,6,neurological
+469,469,468,345.1,469,Epilepsy,"330-337.99, 341-349.99",Both,1,0,6,neurological
+470,470,469,345.11,470,Generalized convulsive epilepsy,"330-337.99, 341-349.99",Both,1,1,6,neurological
+471,471,469,345.12,471,Partial epilepsy,"330-337.99, 341-349.99",Both,1,1,6,neurological
+472,472,468,345.3,472,Convulsions,"330-337.99, 341-349.99",Both,1,1,6,neurological
+473,473,-1,346,473,Abnormal findings on study of brain and/or nervous system,"330-337.99, 341-349.99",,1,0,6,neurological
+474,474,473,346.1,474,Nonspecific abnormal findings on radiological and other examination of skull and head,"330-337.99, 341-349.99",Both,0,1,6,neurological
+475,475,473,346.2,475,Nonspecific abnormal results of function study of brain and central nervous system,"330-337.99, 341-349.99",Both,1,1,6,neurological
+476,476,473,346.3,476,Nonspecific abnormal findings in cerebrospinal fluid,"330-337.99, 341-349.99",Both,0,1,6,neurological
+477,477,-1,347,477,Cataplexy and narcolepsy,"330-337.99, 341-349.99",,1,1,6,neurological
+478,478,-1,348,478,Other conditions of brain,"330-337.99, 341-349.99",Both,1,0,6,neurological
+479,479,478,348.2,479,Cerebral edema and compression of brain,"330-337.99, 341-349.99",Both,1,1,6,neurological
+480,480,478,348.4,480,Cerebral cysts,"330-337.99, 341-349.99",Both,1,1,6,neurological
+481,481,478,348.7,481,Coma,"330-337.99, 341-349.99",Both,0,1,6,neurological
+482,482,478,348.8,482,"Encephalopathy, not elsewhere classified","330-337.99, 341-349.99",Both,1,1,6,neurological
+483,483,478,348.9,483,"Other conditions of brain, NOS","330-337.99, 341-349.99",Both,0,1,6,neurological
+484,484,-1,349,484,Other and unspecified disorders of the nervous system,"330-337.99, 341-349.99",,1,1,6,neurological
+485,485,-1,350.1,485,Abnormal involuntary movements,350-350.99,Both,1,1,6,neurological
+486,486,-1,350.2,486,Abnormality of gait,350-350.99,Both,1,1,6,neurological
+487,487,-1,350.3,487,Lack of coordination,350-350.99,Both,1,1,6,neurological
+488,488,-1,350.5,488,Abnormal reflex,350-350.99,Both,1,1,6,neurological
+489,489,-1,350.6,489,Disturbances of sensation of smell and taste,350-350.99,Both,0,1,6,neurological
+490,490,-1,351,490,Other peripheral nerve disorders,351-355.99,,1,1,6,neurological
+491,491,-1,352,491,Disorders of other cranial nerves,351-355.99,,1,0,6,neurological
+492,492,491,352.1,492,Trigeminal nerve disorders [CN5],351-355.99,Both,1,1,6,neurological
+493,493,491,352.2,493,Facial nerve disorders [CN7],351-355.99,Both,1,1,6,neurological
+494,494,-1,353,494,Nerve root and plexus disorders,351-355.99,,1,0,6,neurological
+495,495,494,353.1,495,Nerve plexus lesions,351-355.99,Both,1,1,6,neurological
+496,496,494,353.2,496,Nerve root lesions,351-355.99,Both,1,1,6,neurological
+497,497,-1,355,497,Complex regional/central pain syndrome,351-355.99,Both,1,1,6,neurological
+498,498,-1,356,498,Hereditary and idiopathic peripheral neuropathy,356-359.99,,1,1,6,neurological
+499,499,-1,357,499,Inflammatory and toxic neuropathy,356-359.99,,1,1,6,neurological
+500,500,-1,358,500,Myoneural disorders,356-359.99,,1,0,6,neurological
+501,501,500,358.1,501,Myasthenia gravis,356-359.99,,1,1,6,neurological
+502,502,-1,359.1,502,Muscular dystrophies,356-359.99,Both,1,1,6,neurological
+503,503,-1,359.2,503,Myopathy,356-359.99,Both,1,1,6,neurological
+504,504,-1,360,504,Disorders of the globe,360-365.99,,1,0,7,sense organs
+505,505,504,360.2,505,Progressive myopia,360-365.99,Both,1,1,7,sense organs
+506,506,504,360.3,506,Hypotony of eye,360-365.99,Both,1,1,7,sense organs
+507,507,-1,361,507,Retinal detachments and defects,360-365.99,,1,0,7,sense organs
+508,508,507,361.1,508,Retinal detachment with retinal defect,360-365.99,Both,1,1,7,sense organs
+509,509,507,361.2,509,Retinoschisis and retinal cysts,360-365.99,Both,1,1,7,sense organs
+510,510,-1,362,510,Other retinal disorders,"250.70-250.79,360-365.99",,1,0,7,sense organs
+511,511,510,362.1,511,Retinopathy of prematurity,"250.70-250.79,360-365.99",Both,1,1,7,sense organs
+512,512,-1,362.29,512,Macular degeneration (senile) of retina NOS,"250.70-250.79,360-365.99",Both,1,1,7,sense organs
+513,513,510,362.3,513,Other nondiabetic retinopathy,"250.70-250.79,360-365.99",Both,1,0,7,sense organs
+514,514,513,362.31,514,Separation of retinal layers,"250.70-250.79,360-365.99",Both,1,1,7,sense organs
+515,515,510,362.4,515,Retinal vascular changes and abnomalities,"250.70-250.79,360-365.99",Both,1,1,7,sense organs
+516,516,510,362.6,516,Peripheral retinal degenerations,"250.70-250.79,360-365.99",Both,1,1,7,sense organs
+517,517,510,362.7,517,Hereditary retinal dystrophies,"250.70-250.79,360-365.99",Both,1,1,7,sense organs
+518,518,510,362.8,518,Retinal hemorrhage/ischemia,"250.70-250.79,360-365.99",Both,1,1,7,sense organs
+519,519,-1,363,519,"Chorioretinal inflammations, scars, and other disorders of choroid",360-365.99,,1,0,7,sense organs
+520,520,519,363.3,520,Chorioretinal scars,360-365.99,Both,1,1,7,sense organs
+521,521,519,363.4,521,Choroidal degenerations,360-365.99,Both,1,1,7,sense organs
+522,522,-1,364,522,Corneal opacity and other disorders of cornea,360-365.99,Both,1,0,7,sense organs
+523,523,522,364.1,523,Corneal opacity,360-365.99,Both,0,1,7,sense organs
+524,524,522,364.2,524,Corneal edema,360-365.99,Both,1,1,7,sense organs
+525,525,522,364.4,525,Corneal degenerations,360-365.99,Both,1,0,7,sense organs
+526,526,525,364.41,526,Keratoconus,360-365.99,Both,1,1,7,sense organs
+527,527,522,364.5,527,Corneal dystrophy,360-365.99,Both,1,0,7,sense organs
+528,528,522,364.9,528,Cornea replaced by transplant,360-365.99,Both,1,1,7,sense organs
+529,529,-1,365,529,Glaucoma,360-365.99,,1,0,7,sense organs
+530,530,-1,365.11,530,Primary open angle glaucoma,360-365.99,Both,1,1,7,sense organs
+531,531,529,365.2,531,Primary angle-closure glaucoma,360-365.99,Both,1,1,7,sense organs
+532,532,-1,366,532,Cataract,366-366.99,Both,1,0,7,sense organs
+533,533,532,366.1,533,Nonsenile Cataract,366-366.99,Both,1,1,7,sense organs
+534,534,532,366.2,534,Senile cataract,366-366.99,Both,1,1,7,sense organs
+535,535,532,366.3,535,Traumatic cataract,366-366.99,Both,1,1,7,sense organs
+536,536,-1,367,536,Disorders of refraction and accommodation; blindness and low vision,367-367.99,,1,0,7,sense organs
+537,537,536,367.1,537,Myopia,367-367.99,Both,1,1,7,sense organs
+538,538,536,367.2,538,Astigmatism,367-367.99,Both,1,1,7,sense organs
+539,539,536,367.4,539,Presbyopia,367-367.99,Both,1,0,7,sense organs
+540,540,536,367.8,540,Hypermetropia,367-367.99,Both,1,1,7,sense organs
+541,541,536,367.9,541,Blindness and low vision,367-367.99,Both,1,1,7,sense organs
+542,542,-1,368,542,Visual disturbances,368-368.99,,1,0,7,sense organs
+543,543,542,368.1,543,Amblyopia,368-368.99,Both,1,1,7,sense organs
+544,544,542,368.2,544,Diplopia and disorders of binocular vision,368-368.99,Both,1,1,7,sense organs
+545,545,542,368.3,545,Anisometropia,368-368.99,Both,1,1,7,sense organs
+546,546,542,368.4,546,Visual field defects,368-368.99,Both,0,1,7,sense organs
+547,547,542,368.5,547,Color vision deficiencies,368-368.99,Both,0,1,7,sense organs
+548,548,542,368.7,548,Disorders of accommodation,368-368.99,Both,1,1,7,sense organs
+549,549,542,368.9,549,Subjective visual disturbances,368-368.99,Both,1,0,7,sense organs
+550,550,-1,369,550,Infection of the eye,369-374.99,,1,0,7,sense organs
+551,551,550,369.2,551,"Eye infection, viral",369-374.99,Both,1,1,7,sense organs
+552,552,550,369.5,552,"Conjunctivitis, infectious",369-374.99,Both,1,1,7,sense organs
+553,553,-1,370,553,Keratitis,369-374.99,Both,1,0,7,sense organs
+554,554,553,370.1,554,Corneal ulcer,369-374.99,Both,1,1,7,sense organs
+555,555,553,370.3,555,Keratoconjunctivitis,369-374.99,Both,1,0,7,sense organs
+556,556,-1,371,556,Inflammation of the eye,369-374.99,,1,0,7,sense organs
+557,557,556,371.1,557,"Uveitis, noninfectious or NOS",369-374.99,Both,1,1,7,sense organs
+558,558,556,371.2,558,"Conjunctivitis, noninfectious",369-374.99,Both,1,0,7,sense organs
+559,559,556,371.3,559,Inflammation of eyelids,369-374.99,Both,1,0,7,sense organs
+560,560,559,371.33,560,Noninfectious dermatoses of eyelid,369-374.99,Both,1,1,7,sense organs
+561,561,556,371.9,561,Chronic inflammatory disorders of orbit,369-374.99,Both,1,1,7,sense organs
+562,562,-1,372,562,Disorders of conjunctiva,369-374.99,,1,1,7,sense organs
+563,563,-1,374,563,Other disorders of eyelids,369-374.99,,1,0,7,sense organs
+564,564,563,374.1,564,Ectropion or entropion,369-374.99,Both,1,1,7,sense organs
+565,565,563,374.2,565,Lagophthalmos,369-374.99,Both,1,1,7,sense organs
+566,566,563,374.3,566,Ptosis of eyelid,369-374.99,Both,1,1,7,sense organs
+567,567,-1,375,567,Disorders of lacrimal system,375-379.99,,1,0,7,sense organs
+568,568,567,375.2,568,Epiphora,375-379.99,Both,1,1,7,sense organs
+569,569,-1,376,569,Disorders of the orbit,375-379.99,,1,1,7,sense organs
+570,570,-1,377,570,Disorders of optic nerve and visual pathways,375-379.99,,1,0,7,sense organs
+571,571,570,377.1,571,Optic atrophy,375-379.99,Both,1,1,7,sense organs
+572,572,570,377.3,572,Optic neuritis/neuropathy,375-379.99,,1,1,7,sense organs
+573,573,-1,378,573,Strabismus and other disorders of binocular eye movements,375-379.99,,1,0,7,sense organs
+574,574,573,378.1,574,Strabismus (not specified as paralytic),375-379.99,Both,1,1,7,sense organs
+575,575,573,378.2,575,Nystagmus and other irregular eye movements,375-379.99,Both,1,1,7,sense organs
+576,576,573,378.5,576,Paralytic strabismus,375-379.99,Both,1,1,7,sense organs
+577,577,-1,379,577,Other disorders of eye,375-379.99,Both,1,0,7,sense organs
+578,578,577,379.1,578,Scleritis and episcleritis,375-379.99,Both,1,1,7,sense organs
+579,579,577,379.2,579,Disorders of vitreous body,375-379.99,Both,1,1,7,sense organs
+580,580,577,379.3,580,Aphakia and other disorders of lens,375-379.99,Both,1,1,7,sense organs
+581,581,577,379.4,581,Anomalies of pupillary function,375-379.99,Both,1,1,7,sense organs
+582,582,577,379.5,582,Disorders of iris and ciliary body,375-379.99,Both,1,0,7,sense organs
+583,583,577,379.9,583,"Pain, swelling or discharge of eye",375-379.99,Both,0,1,7,sense organs
+584,584,-1,380,584,Disorders of external ear,380-380.99,Both,1,1,7,sense organs
+585,585,584,380.1,585,Otitis externa,380-380.99,Both,0,1,7,sense organs
+586,586,584,380.4,586,Impacted cerumen,380-380.99,Both,0,1,7,sense organs
+587,587,-1,381.1,587,Otitis media,381-385.99,Both,1,0,7,sense organs
+588,588,587,381.11,588,Suppurative and unspecified otitis media,381-385.99,Both,1,1,7,sense organs
+589,589,-1,381.2,589,Eustachian tube disorders,381-385.99,Both,1,1,7,sense organs
+590,590,-1,381.3,590,Mastoiditis & related conditions,381-385.99,Both,1,1,7,sense organs
+591,591,-1,381.9,591,Otorrhea,381-385.99,Both,1,1,7,sense organs
+592,592,-1,382,592,Otalgia,381-385.99,Both,1,1,7,sense organs
+593,593,-1,383,593,Otosclerosis,381-385.99,,1,1,7,sense organs
+594,594,-1,384,594,Other disorders of tympanic membrane,381-385.99,,1,0,7,sense organs
+595,595,594,384.1,595,Myringitis,381-385.99,Both,1,1,7,sense organs
+596,596,594,384.4,596,Perforation of tympanic membrane,381-385.99,Both,1,1,7,sense organs
+597,597,-1,385,597,Other disorders of middle ear and mastoid,381-385.99,,1,0,7,sense organs
+598,598,597,385.3,598,Cholesteatoma,381-385.99,Both,1,1,7,sense organs
+599,599,597,385.5,599,Tympanosclerosis and middle ear disease related to otitis media,381-385.99,Both,1,1,7,sense organs
+600,600,-1,386,600,Vertiginous syndromes and other disorders of vestibular system,386-386.99,,1,0,7,sense organs
+601,601,600,386.1,601,Meniere's disease,386-386.99,,1,1,7,sense organs
+602,602,600,386.2,602,Peripheral or central vertigo,386-386.99,,1,0,7,sense organs
+603,603,602,386.21,603,Central origin vertigo,386-386.99,Both,1,1,7,sense organs
+604,604,600,386.3,604,Labyrinthitis,386-386.99,Both,1,1,7,sense organs
+605,605,600,386.9,605,Dizziness and giddiness (Light-headedness and vertigo),386-386.99,Both,0,1,7,sense organs
+606,606,-1,388,606,Other disorders of ear,387-389.99,,1,1,7,sense organs
+607,607,-1,389,607,Hearing loss,387-389.99,,1,0,7,sense organs
+608,608,607,389.1,608,Sensorineural hearing loss,387-389.99,Both,1,1,7,sense organs
+609,609,607,389.2,609,Conductive hearing loss,387-389.99,Both,1,1,7,sense organs
+610,610,607,389.3,610,Degenerative and vascular disorders of ear,387-389.99,Both,1,1,7,sense organs
+611,611,607,389.4,611,Tinnitus,387-389.99,Both,1,1,7,sense organs
+612,612,607,389.5,612,Disorders of acoustic nerve,387-389.99,Both,1,1,7,sense organs
+613,613,-1,394,613,Rheumatic disease of the heart valves,394-399.99,,1,0,8,circulatory system
+614,614,613,394.2,614,Mitral valve disease,394-399.99,Both,1,1,8,circulatory system
+615,615,613,394.3,615,Aortic valve disease,394-399.99,Both,1,1,8,circulatory system
+616,616,613,394.4,616,Acute rheumatic heart disease,394-399.99,Both,1,1,8,circulatory system
+617,617,613,394.7,617,Disease of tricuspid valve,394-399.99,Both,1,1,8,circulatory system
+618,618,-1,395.1,618,Nonrheumatic mitral valve disorders,394-399.99,Both,1,1,8,circulatory system
+619,619,-1,395.3,619,Nonrheumatic tricuspid valve disorders,394-399.99,Both,1,1,8,circulatory system
+620,620,-1,395.4,620,Nonrheumatic pulmonary valve disorders,394-399.99,Both,1,1,8,circulatory system
+621,621,-1,395.6,621,Heart valve replaced,394-399.99,Both,1,1,8,circulatory system
+622,622,-1,396,622,Abnormal heart sounds,394-399.99,Both,1,1,8,circulatory system
+623,623,-1,401.1,623,Essential hypertension,401-405.99,Both,1,1,8,circulatory system
+624,624,-1,401.2,624,Hypertensive heart and/or renal disease,401-405.99,Both,1,0,8,circulatory system
+625,625,624,401.21,625,Hypertensive heart disease,401-405.99,Both,1,1,8,circulatory system
+626,626,624,401.22,626,Hypertensive chronic kidney disease,401-405.99,Both,1,1,8,circulatory system
+627,627,-1,401.3,627,Other hypertensive complications,401-405.99,Both,1,1,8,circulatory system
+628,628,-1,402,628,Elevated blood pressure reading without diagnosis of hypertension,401-405.99,Both,1,0,8,circulatory system
+629,629,-1,411.1,629,Unstable angina (intermediate coronary syndrome),410-414.99,Both,1,1,8,circulatory system
+630,630,-1,411.2,630,Myocardial infarction,410-414.99,Both,1,1,8,circulatory system
+631,631,-1,411.3,631,Angina pectoris,410-414.99,Both,1,1,8,circulatory system
+632,632,-1,411.4,632,Coronary atherosclerosis,410-414.99,Both,1,0,8,circulatory system
+633,633,632,411.41,633,Aneurysm and dissection of heart,410-414.99,Both,1,1,8,circulatory system
+634,634,-1,411.8,634,"Other chronic ischemic heart disease, unspecified",410-414.99,Both,1,1,8,circulatory system
+635,635,-1,411.9,635,Other acute and subacute forms of ischemic heart disease,410-414.99,Both,1,1,8,circulatory system
+636,636,-1,414,636,Other forms of chronic heart disease,410-414.99,Both,1,0,8,circulatory system
+637,637,-1,415,637,Pulmonary heart disease,415-417.99,,1,0,8,circulatory system
+638,638,-1,415.11,638,"Pulmonary embolism and infarction, acute",415-417.99,Both,1,1,8,circulatory system
+639,639,637,415.2,639,Chronic pulmonary heart disease,415-417.99,Both,1,0,8,circulatory system
+640,640,639,415.21,640,Primary pulmonary hypertension,415-417.99,Both,1,1,8,circulatory system
+641,641,-1,416,641,Cardiomegaly,415-417.99,Both,1,1,8,circulatory system
+642,642,-1,418,642,Nonspecific chest pain,418-418.99,Both,1,1,8,circulatory system
+643,643,642,418.1,643,Precordial pain,418-418.99,Both,0,1,8,circulatory system
+644,644,-1,420,644,Carditis,420-425.99,,1,0,8,circulatory system
+645,645,644,420.1,645,Myocarditis,420-425.99,Both,1,1,8,circulatory system
+646,646,644,420.2,646,Pericarditis,420-425.99,Both,1,0,8,circulatory system
+647,647,646,420.21,647,Acute pericarditis,420-425.99,Both,1,1,8,circulatory system
+648,648,646,420.22,648,Chronic pericarditis,420-425.99,Both,1,1,8,circulatory system
+649,649,644,420.3,649,Endocarditis,420-425.99,Both,1,1,8,circulatory system
+650,650,-1,425,650,Cardiomyopathy,420-425.99,,1,0,8,circulatory system
+651,651,650,425.1,651,Primary/intrinsic cardiomyopathies,420-425.99,Both,1,0,8,circulatory system
+652,652,651,425.11,652,Hypertrophic obstructive cardiomyopathy,420-425.99,Both,1,1,8,circulatory system
+653,653,651,425.12,653,Other hypertrophic cardiomyopathy,420-425.99,Both,1,1,8,circulatory system
+654,654,650,425.2,654,Secondary/extrinsic cardiomyopathies,420-425.99,Both,1,1,8,circulatory system
+655,655,650,425.8,655,Other cardiomyopathy,420-425.99,Both,1,1,8,circulatory system
+656,656,-1,426,656,Cardiac conduction disorders,426-427.99,,1,0,8,circulatory system
+657,657,656,426.2,657,Atrioventricular [AV] block,426-427.99,Both,1,0,8,circulatory system
+658,658,657,426.21,658,First degree AV block,426-427.99,Both,1,1,8,circulatory system
+659,659,657,426.23,659,Second degree AV block,426-427.99,Both,1,1,8,circulatory system
+660,660,657,426.24,660,"Atrioventricular block, complete",426-427.99,Both,1,1,8,circulatory system
+661,661,657,426.25,661,Other heart block,426-427.99,Both,1,1,8,circulatory system
+662,662,656,426.3,662,Bundle branch block,426-427.99,Both,1,0,8,circulatory system
+663,663,662,426.31,663,Right bundle branch block,426-427.99,Both,1,1,8,circulatory system
+664,664,662,426.32,664,Left bundle branch block,426-427.99,Both,1,1,8,circulatory system
+665,665,656,426.4,665,Anomalous atrioventricular excitation,426-427.99,Both,1,1,8,circulatory system
+666,666,656,426.8,666,Other cardiac conduction disorders,426-427.99,Both,1,1,8,circulatory system
+667,667,656,426.9,667,Cardiac pacemaker/device in situ,426-427.99,Both,1,0,8,circulatory system
+668,668,667,426.91,668,Cardiac pacemaker in situ,426-427.99,Both,1,1,8,circulatory system
+669,669,-1,427.1,669,"Paroxysmal tachycardia, unspecified",426-427.99,,1,0,8,circulatory system
+670,670,669,427.11,670,Paroxysmal supraventricular tachycardia,426-427.99,Both,1,1,8,circulatory system
+671,671,669,427.12,671,Paroxysmal ventricular tachycardia,426-427.99,Both,1,1,8,circulatory system
+672,672,-1,427.2,672,Atrial fibrillation and flutter,426-427.99,,1,0,8,circulatory system
+673,673,-1,427.3,673,Other specified cardiac dysrhythmias,426-427.99,Both,1,1,8,circulatory system
+674,674,-1,427.42,674,Cardiac arrest,426-427.99,Both,1,1,8,circulatory system
+675,675,-1,427.5,675,Arrhythmia (cardiac) NOS,426-427.99,Both,1,1,8,circulatory system
+676,676,-1,427.6,676,Premature beats,426-427.99,Both,1,0,8,circulatory system
+677,677,676,427.61,677,Supraventricular premature beats,426-427.99,Both,1,1,8,circulatory system
+678,678,-1,427.7,678,Tachycardia NOS,426-427.99,Both,1,1,8,circulatory system
+679,679,-1,427.8,679,Sinoatrial node dysfunction (Bradycardia),426-427.99,Both,1,1,8,circulatory system
+680,680,-1,427.9,680,Palpitations,426-427.99,Both,1,1,8,circulatory system
+681,681,-1,428.1,681,Congestive heart failure (CHF) NOS,428-429.99,Both,1,1,8,circulatory system
+682,682,-1,428.2,682,Heart failure NOS,428-429.99,Both,1,1,8,circulatory system
+683,683,-1,429.1,683,Heart transplant/surgery,428-429.99,Both,0,1,8,circulatory system
+684,684,-1,429.2,684,Abnormal function study of cardiovascular system,428-429.99,Both,1,1,8,circulatory system
+685,685,-1,429.3,685,Symptoms involving cardiovascular system,428-429.99,Both,1,1,8,circulatory system
+686,686,-1,430,686,Intracranial hemorrhage,430-438.99,,1,0,8,circulatory system
+687,687,686,430.1,687,Subarachnoid hemorrhage,430-438.99,Both,1,1,8,circulatory system
+688,688,686,430.2,688,Intracerebral hemorrhage,430-438.99,Both,1,1,8,circulatory system
+689,689,686,430.3,689,Subdural hemorrhage,430-438.99,Both,1,1,8,circulatory system
+690,690,-1,433,690,Cerebrovascular disease,430-438.99,,1,0,8,circulatory system
+691,691,690,433.1,691,Occlusion and stenosis of precerebral arteries,430-438.99,Both,1,0,8,circulatory system
+692,692,691,433.11,692,"Occlusion of cerebral arteries, with cerebral infarction",430-438.99,Both,1,1,8,circulatory system
+693,693,691,433.12,693,Cerebral atherosclerosis,430-438.99,Both,1,1,8,circulatory system
+694,694,690,433.2,694,Occlusion of cerebral arteries,430-438.99,Both,1,0,8,circulatory system
+695,695,694,433.21,695,"Cerebral artery occlusion, with cerebral infarction",430-438.99,Both,1,1,8,circulatory system
+696,696,690,433.3,696,Cerebral ischemia,430-438.99,Both,1,0,8,circulatory system
+697,697,696,433.31,697,Transient cerebral ischemia,430-438.99,Both,1,1,8,circulatory system
+698,698,696,433.32,698,Moyamoya disease,430-438.99,Both,1,1,8,circulatory system
+699,699,690,433.5,699,Cerebral aneurysm,430-438.99,Both,1,1,8,circulatory system
+700,700,690,433.8,700,Late effects of cerebrovascular disease,430-438.99,Both,1,1,8,circulatory system
+701,701,-1,440,701,Atherosclerosis,440-449.99,,1,0,8,circulatory system
+702,702,701,440.1,702,Atherosclerosis of renal artery,440-449.99,Both,1,1,8,circulatory system
+703,703,701,440.2,703,Atherosclerosis of the extremities,440-449.99,Both,1,0,8,circulatory system
+704,704,701,440.9,704,Atherosclerosis of aorta,440-449.99,Both,1,1,8,circulatory system
+705,705,-1,441,705,Vascular insufficiency of intestine,440-449.99,,1,0,8,circulatory system
+706,706,705,441.1,706,Acute vascular insufficiency of intestine,440-449.99,Both,1,1,8,circulatory system
+707,707,705,441.2,707,Chronic vascular insufficiency of intestine,440-449.99,Both,1,1,8,circulatory system
+708,708,-1,442,708,Other aneurysm,440-449.99,,1,0,8,circulatory system
+709,709,708,442.1,709,Aortic aneurysm,440-449.99,Both,1,0,8,circulatory system
+710,710,709,442.11,710,Abdominal aortic aneurysm,440-449.99,Both,1,1,8,circulatory system
+711,711,708,442.2,711,Aneurysm of iliac artery,440-449.99,Both,1,1,8,circulatory system
+712,712,708,442.3,712,Aneurysm of artery of lower extremity,440-449.99,Both,1,1,8,circulatory system
+713,713,708,442.4,713,Arterial dissection,440-449.99,Both,1,1,8,circulatory system
+714,714,708,442.8,714,Aneurysm of other specified artery,440-449.99,Both,1,1,8,circulatory system
+715,715,-1,443.1,715,Raynaud's syndrome,440-449.99,Both,1,1,8,circulatory system
+716,716,-1,443.7,716,Peripheral angiopathy in diseases classified elsewhere,440-449.99,Both,1,1,8,circulatory system
+717,717,-1,443.8,717,Other specified peripheral vascular diseases,440-449.99,Both,1,1,8,circulatory system
+718,718,-1,443.9,718,"Peripheral vascular disease, unspecified",440-449.99,Both,1,1,8,circulatory system
+719,719,-1,444,719,Arterial embolism and thrombosis,440-449.99,,1,0,8,circulatory system
+720,720,719,444.1,720,Arterial embolism and thrombosis of lower extremity artery,440-449.99,Both,1,1,8,circulatory system
+721,721,719,444.2,721,Embolism and thrombosis of abdominal aorta,440-449.99,Both,1,1,8,circulatory system
+722,722,-1,446,722,Polyarteritis nodosa and allied conditions,440-449.99,Both,1,0,8,circulatory system
+723,723,722,446.1,723,Thromboangiitis obliterans,440-449.99,Both,1,1,8,circulatory system
+724,724,722,446.2,724,Acute febrile mucocutaneous lymph node syndrome (Kawasaki disease),440-449.99,Both,1,1,8,circulatory system
+725,725,722,446.3,725,Hypersensitivity angiitis,440-449.99,Both,1,1,8,circulatory system
+726,726,722,446.4,726,Wegener's granulomatosis,440-449.99,Both,1,1,8,circulatory system
+727,727,722,446.5,727,Giant cell arteritis,440-449.99,Both,1,1,8,circulatory system
+728,728,722,446.6,728,Polyarteritis nodosa,440-449.99,Both,1,1,8,circulatory system
+729,729,722,446.7,729,Takayasu's disease,440-449.99,Both,1,1,8,circulatory system
+730,730,722,446.8,730,Thrombotic microangiopathy,440-449.99,Both,1,1,8,circulatory system
+731,731,722,446.9,731,Arteritis NOS,440-449.99,Both,1,1,8,circulatory system
+732,732,-1,447,732,Other disorders of arteries and arterioles,440-449.99,,1,0,8,circulatory system
+733,733,732,447.1,733,Stricture of artery,440-449.99,Both,1,1,8,circulatory system
+734,734,-1,448,734,Disease of capillaries,440-449.99,,1,1,8,circulatory system
+735,735,-1,450,735,Noninfectious disorders of lymphatic channels,450-450.99,Both,1,1,8,circulatory system
+736,736,-1,451,736,Phlebitis and thrombophlebitis,450-457.99,,1,0,8,circulatory system
+737,737,736,451.2,737,Phlebitis and thrombophlebitis of lower extremities,450-457.99,Both,1,1,8,circulatory system
+738,738,-1,452,738,Other venous embolism and thrombosis,450-457.99,,1,0,8,circulatory system
+739,739,738,452.8,739,Postphlebitic syndrome,450-457.99,Both,1,1,8,circulatory system
+740,740,-1,454,740,Varicose veins,450-457.99,,1,0,8,circulatory system
+741,741,740,454.1,741,Varicose veins of lower extremity,450-457.99,Both,1,0,8,circulatory system
+742,742,741,454.11,742,"Varicose veins of lower extremity, symptomtic",450-457.99,Both,1,1,8,circulatory system
+743,743,-1,455,743,Hemorrhoids,450-457.99,,1,1,8,circulatory system
+744,744,-1,456,744,Chronic venous insufficiency [CVI],450-457.99,Both,1,1,8,circulatory system
+745,745,-1,458,745,Hypotension,458-459.99,,1,0,8,circulatory system
+746,746,745,458.1,746,Orthostatic hypotension,458-459.99,Both,1,1,8,circulatory system
+747,747,745,458.2,747,Iatrogenic hypotension,458-459.99,Both,1,1,8,circulatory system
+748,748,745,458.9,748,Hypotension NOS,458-459.99,Both,1,1,8,circulatory system
+749,749,-1,459,749,Other disorders of circulatory system,458-459.99,,1,0,8,circulatory system
+750,750,749,459.1,750,Hemorrhage NOS,458-459.99,Both,1,1,8,circulatory system
+751,751,749,459.9,751,Circulatory disease NEC,458-459.99,Both,1,1,8,circulatory system
+752,752,-1,464,752,Acute sinusitis,460-469.99,Both,1,1,9,respiratory
+753,753,-1,465,753,Acute upper respiratory infections of multiple or unspecified sites,460-469.99,,1,0,9,respiratory
+754,754,753,465.2,754,Acute pharyngitis,460-469.99,Both,1,1,9,respiratory
+755,755,753,465.4,755,Acute laryngitis and tracheitis,460-469.99,Both,1,1,9,respiratory
+756,756,-1,470,756,Septal Deviations/Turbinate Hypertrophy,470-479.99,,1,1,9,respiratory
+757,757,-1,471,757,Nasal polyps,470-479.99,,1,1,9,respiratory
+758,758,-1,472,758,Chronic pharyngitis and nasopharyngitis,470-479.99,,1,1,9,respiratory
+759,759,-1,473,759,Diseases of the larynx and vocal cords,470-479.99,,1,0,9,respiratory
+760,760,759,473.1,760,Chronic laryngitis,470-479.99,Both,1,1,9,respiratory
+761,761,759,473.3,761,Paralysis/spasm of vocal cords or larynx,470-479.99,Both,1,1,9,respiratory
+762,762,759,473.4,762,Voice disturbance,470-479.99,Both,1,1,9,respiratory
+763,763,-1,474,763,Acute and chronic tonsillitis,470-479.99,,1,0,9,respiratory
+764,764,763,474.1,764,Acute tonsillitis,470-479.99,Both,1,1,9,respiratory
+765,765,763,474.2,765,Chronic tonsillitis and adenoiditis,470-479.99,Both,1,1,9,respiratory
+766,766,-1,475,766,Chronic sinusitis,470-479.99,,1,0,9,respiratory
+767,767,-1,476,767,Allergic rhinitis,470-479.99,,1,1,9,respiratory
+768,768,-1,477,768,Epistaxis or throat hemorrhage,470-479.99,Both,1,1,9,respiratory
+769,769,-1,478,769,Throat pain,470-479.99,,1,1,9,respiratory
+770,770,-1,479,770,Other upper respiratory disease,470-479.99,Both,1,1,9,respiratory
+771,771,-1,480,771,Pneumonia,480-488.99,,1,0,9,respiratory
+772,772,771,480.1,772,Bacterial pneumonia,480-488.99,Both,1,0,9,respiratory
+773,773,772,480.11,773,Pneumococcal pneumonia,480-488.99,Both,1,1,9,respiratory
+774,774,772,480.12,774,Pseudomonal pneumonia,480-488.99,Both,1,1,9,respiratory
+775,775,771,480.2,775,Viral pneumonia,480-488.99,Both,1,1,9,respiratory
+776,776,771,480.3,776,Pneumonia due to fungus (mycoses),480-488.99,Both,1,1,9,respiratory
+777,777,771,480.5,777,Bronchopneumonia and lung abscess,480-488.99,Both,1,1,9,respiratory
+778,778,-1,481,778,Influenza,480-488.99,,1,1,9,respiratory
+779,779,-1,483,779,Acute bronchitis and bronchiolitis,480-488.99,,1,1,9,respiratory
+780,780,-1,495,780,Asthma,490-498.99,,1,0,9,respiratory
+781,781,780,495.2,781,Asthma with exacerbation,490-498.99,Both,1,1,9,respiratory
+782,782,-1,496,782,Chronic airway obstruction,490-498.99,,1,0,9,respiratory
+783,783,782,496.1,783,Emphysema,490-498.99,Both,1,1,9,respiratory
+784,784,782,496.2,784,Chronic bronchitis,490-498.99,Both,1,0,9,respiratory
+785,785,784,496.21,785,Obstructive chronic bronchitis,490-498.99,Both,1,1,9,respiratory
+786,786,782,496.3,786,Bronchiectasis,490-498.99,Both,1,1,9,respiratory
+787,787,-1,497,787,Bronchitis,490-498.99,Both,1,1,9,respiratory
+788,788,-1,499,788,Cystic fibrosis,499-499.99,Both,1,1,9,respiratory
+789,789,-1,500,789,Lung disease due to external agents,500-509.99,,1,0,9,respiratory
+790,790,789,500.1,790,Extrinsic allergic alveolitis,500-509.99,Both,1,1,9,respiratory
+791,791,789,500.2,791,Pneumoconiosis,500-509.99,Both,1,1,9,respiratory
+792,792,-1,501,792,Pneumonitis due to inhalation of food or vomitus,500-509.99,Both,1,1,9,respiratory
+793,793,-1,502,793,Postinflammatory pulmonary fibrosis,500-509.99,Both,1,1,9,respiratory
+794,794,-1,503,794,Pulmonary congestion and hypostasis,500-509.99,Both,1,1,9,respiratory
+795,795,-1,504,795,Other alveolar and parietoalveolar pneumonopathy,500-509.99,Both,1,0,9,respiratory
+796,796,-1,505,796,Other pulmonary inflamation or edema,500-509.99,,1,1,9,respiratory
+797,797,-1,506,797,Empyema and pneumothorax,500-509.99,,1,1,9,respiratory
+798,798,-1,507,798,Pleurisy; pleural effusion,500-509.99,,1,1,9,respiratory
+799,799,-1,508,799,Pulmonary collapse; interstitial and compensatory emphysema,500-509.99,,1,1,9,respiratory
+800,800,-1,509.1,800,Respiratory failure,500-509.99,Both,1,1,9,respiratory
+801,801,-1,509.2,801,Respiratory insufficiency,500-509.99,Both,1,1,9,respiratory
+802,802,-1,509.3,802,Pulmonary insufficiency or respiratory failure following trauma and surgery,500-509.99,Both,1,1,9,respiratory
+803,803,-1,509.5,803,Respiratory arrest,500-509.99,Both,1,1,9,respiratory
+804,804,-1,509.8,804,Dependence on respirator [Ventilator] or supplemental oxygen,500-509.99,Both,1,1,9,respiratory
+805,805,-1,510,805,Other diseases of lung,510-510.99,,1,1,9,respiratory
+806,806,805,510.2,806,Lung transplant,510-510.99,Both,0,1,9,respiratory
+807,807,-1,512.1,807,Wheezing,512-512.99,Both,1,1,9,respiratory
+808,808,-1,512.2,808,Painful respiration,512-512.99,Both,1,1,9,respiratory
+809,809,-1,512.7,809,Shortness of breath,512-512.99,Both,1,1,9,respiratory
+810,810,-1,512.8,810,Cough,512-512.99,Both,1,1,9,respiratory
+811,811,-1,512.9,811,Other dyspnea,512-512.99,Both,1,1,9,respiratory
+812,812,-1,513.3,812,Hypoventilation,513-513.99,Both,1,0,9,respiratory
+813,813,812,513.31,813,Apnea,513-513.99,Both,1,1,9,respiratory
+814,814,-1,513.4,814,Hyperventilation,513-513.99,Both,1,1,9,respiratory
+815,815,-1,513.8,815,Disorders of diaphragm,513-513.99,Both,1,1,9,respiratory
+816,816,-1,514,816,Abnormal findings examination of lungs,514-514.99,,1,1,9,respiratory
+817,817,816,514.1,817,Abnormal results of function study of pulmonary system,514-514.99,Both,0,1,9,respiratory
+818,818,-1,516,818,Abnormal sputum,516-516.99,,1,0,9,respiratory
+819,819,818,516.1,819,Hemoptysis,516-516.99,Both,1,1,9,respiratory
+820,820,-1,519,820,"Other diseases of respiratory system, not elsewhere classified",519-519.99,,1,0,9,respiratory
+821,821,820,519.2,821,Respiratory complications,519-519.99,Both,1,1,9,respiratory
+822,822,820,519.8,822,"Other diseases of respiratory system, NEC",519-519.99,Both,1,1,9,respiratory
+823,823,820,519.9,823,Symptoms involving respiratory system and other chest symptoms,519-519.99,Both,1,1,9,respiratory
+824,824,-1,520,824,Disorders of tooth development,520-526.99,,1,0,10,digestive
+825,825,824,520.1,825,Hereditary disturbances in tooth structure,520-526.99,Both,1,1,10,digestive
+826,826,824,520.2,826,Disturbances in tooth eruption,520-526.99,Both,1,1,10,digestive
+827,827,-1,521,827,Diseases of hard tissues of teeth,520-526.99,,1,0,10,digestive
+828,828,827,521.1,828,Dental caries,520-526.99,Both,1,1,10,digestive
+829,829,827,521.2,829,"Dental abrasion, erosion and attrition",520-526.99,Both,1,1,10,digestive
+830,830,827,521.4,830,Tooth complications likely association with other diseases,520-526.99,Both,1,1,10,digestive
+831,831,-1,522,831,Diseases of pulp and periapical tissues,520-526.99,,1,0,10,digestive
+832,832,831,522.1,832,Pulpitis and necrosis of tooth pulp,520-526.99,Both,1,1,10,digestive
+833,833,831,522.5,833,Periapical abscess,520-526.99,Both,1,1,10,digestive
+834,834,-1,523,834,Gingival and periodontal diseases,520-526.99,,1,0,10,digestive
+835,835,834,523.1,835,Gingivitis,520-526.99,Both,1,1,10,digestive
+836,836,834,523.3,836,Periodontitis (acute or chronic),520-526.99,Both,1,0,10,digestive
+837,837,836,523.31,837,Acute periodontitis,520-526.99,Both,1,1,10,digestive
+838,838,836,523.32,838,Chronic periodontitis,520-526.99,Both,1,1,10,digestive
+839,839,-1,524,839,"Dentofacial anomalies, including malocclusion",520-526.99,,1,0,10,digestive
+840,840,839,524.3,840,Anomalies of tooth position/malocclusion,520-526.99,Both,1,1,10,digestive
+841,841,-1,525,841,Other diseases of the teeth and supporting structures,520-526.99,,1,0,10,digestive
+842,842,841,525.2,842,Atrophy of edentulous alveolar ridge,520-526.99,Both,1,1,10,digestive
+843,843,-1,526,843,Diseases of the jaws,520-526.99,,1,0,10,digestive
+844,844,843,526.1,844,Cysts of the jaws,520-526.99,Both,1,1,10,digestive
+845,845,843,526.3,845,Anomalies of jaw size/symmetry,520-526.99,Both,1,1,10,digestive
+846,846,-1,526.41,846,"Temporomandibular joint disorder, unspecified",520-526.99,Both,1,1,10,digestive
+847,847,843,526.5,847,Inflammatory conditions of jaw,520-526.99,Both,1,1,10,digestive
+848,848,843,526.9,848,Jaw disease NOS,520-526.99,Both,1,1,10,digestive
+849,849,-1,527,849,Diseases of the salivary glands,527-529.99,,1,0,10,digestive
+850,850,849,527.1,850,Hypertrophy of salivary gland,527-529.99,Both,1,1,10,digestive
+851,851,849,527.2,851,Sialoadenitis,527-529.99,Both,1,1,10,digestive
+852,852,849,527.7,852,Disturbance of salivary secretion,527-529.99,Both,1,1,10,digestive
+853,853,849,527.8,853,Other specified diseases of the salivary glands,527-529.99,Both,1,1,10,digestive
+854,854,-1,528,854,"Diseases of the oral soft tissues, excluding lesions specific for gingiva and tongue",527-529.99,,1,0,10,digestive
+855,855,-1,528.11,855,Stomatitis and mucositis (ulcerative),527-529.99,Both,1,1,10,digestive
+856,856,-1,528.12,856,Oral aphthae,527-529.99,Both,1,1,10,digestive
+857,857,854,528.3,857,Cellulitis and abscess of oral soft tissues,527-529.99,Both,1,1,10,digestive
+858,858,854,528.4,858,Cysts of oral soft tissues,527-529.99,Both,1,0,10,digestive
+859,859,858,528.41,859,Cyst of the salivary gland,527-529.99,Both,1,1,10,digestive
+860,860,854,528.5,860,Diseases of lips,527-529.99,Both,1,1,10,digestive
+861,861,854,528.6,861,Leukoplakia of oral mucosa,527-529.99,Both,1,1,10,digestive
+862,862,854,528.7,862,Sialolithiasis,527-529.99,Both,1,1,10,digestive
+863,863,-1,529,863,Diseases and other conditions of the tongue,527-529.99,,1,0,10,digestive
+864,864,863,529.1,864,Glossitis,527-529.99,Both,1,1,10,digestive
+865,865,863,529.6,865,Glossodynia,527-529.99,Both,1,1,10,digestive
+866,866,-1,530,866,Diseases of esophagus,"530-530.99, 532-532.99",,1,0,10,digestive
+867,867,866,530.1,867,"Esophagitis, GERD and related diseases","530-530.99, 532-532.99",,1,0,10,digestive
+868,868,867,530.11,868,GERD,"530-530.99, 532-532.99",Both,1,1,10,digestive
+869,869,867,530.12,869,Ulcer of esophagus,"530-530.99, 532-532.99",Both,1,1,10,digestive
+870,870,867,530.14,870,Reflux esophagitis,"530-530.99, 532-532.99",Both,1,1,10,digestive
+871,871,866,530.2,871,Esophageal bleeding (varices/hemorrhage),"530-530.99, 532-532.99",Both,1,1,10,digestive
+872,872,866,530.3,872,Stricture and stenosis of esophagus,"530-530.99, 532-532.99",Both,1,1,10,digestive
+873,873,866,530.5,873,Disorders of esophageal motility,"530-530.99, 532-532.99",Both,1,1,10,digestive
+874,874,866,530.6,874,"Diverticulum of esophagus, acquired","530-530.99, 532-532.99",Both,1,1,10,digestive
+875,875,866,530.7,875,Gastroesophageal laceration-hemorrhage syndrome,"530-530.99, 532-532.99",Both,1,1,10,digestive
+876,876,866,530.9,876,Heartburn,"530-530.99, 532-532.99",Both,0,1,10,digestive
+877,877,-1,531.1,877,Hemorrhage from gastrointestinal ulcer,531-531.99,Both,1,1,10,digestive
+878,878,-1,531.2,878,Gastric ulcer,531-531.99,Both,1,1,10,digestive
+879,879,-1,531.3,879,Duodenal ulcer,531-531.99,Both,1,1,10,digestive
+880,880,-1,531.4,880,"Peptic ulcer, site unspecified",531-531.99,Both,1,1,10,digestive
+881,881,-1,531.5,881,Gastrojejunal ulcer,531-531.99,Both,1,1,10,digestive
+882,882,-1,532,882,Dysphagia,"530-530.99, 532-532.99",Both,1,1,10,digestive
+883,883,-1,535,883,Gastritis and duodenitis,535-537.99,,1,0,10,digestive
+884,884,883,535.1,884,Acute gastritis,535-537.99,Both,1,1,10,digestive
+885,885,883,535.2,885,Atrophic gastritis,535-537.99,Both,1,1,10,digestive
+886,886,883,535.6,886,Duodenitis,535-537.99,Both,1,1,10,digestive
+887,887,883,535.8,887,Other specified gastritis,535-537.99,Both,1,1,10,digestive
+888,888,-1,536,888,Disorders of function of stomach,535-537.99,,1,0,10,digestive
+889,889,-1,537,889,Other disorders of stomach and duodenum,535-537.99,,1,0,10,digestive
+890,890,-1,539,890,Bariatric surgery,539-539.99,Both,1,1,10,digestive
+891,891,-1,540,891,Appendiceal conditions,540-540.99,,1,0,10,digestive
+892,892,891,540.1,892,Appendicitis,540-540.99,Both,1,0,10,digestive
+893,893,892,540.11,893,Acute appendicitis,540-540.99,Both,1,1,10,digestive
+894,894,-1,550,894,Abdominal hernia,550-550.99,,1,0,10,digestive
+895,895,894,550.1,895,Inguinal hernia,550-550.99,Both,1,1,10,digestive
+896,896,894,550.2,896,Diaphragmatic hernia,550-550.99,Both,1,1,10,digestive
+897,897,894,550.3,897,Femoral hernia,550-550.99,Both,1,1,10,digestive
+898,898,894,550.4,898,Umbilical hernia,550-550.99,Both,1,1,10,digestive
+899,899,894,550.5,899,Ventral hernia,550-550.99,Both,1,1,10,digestive
+900,900,-1,555.1,900,Regional enteritis,555-564.99,Both,1,1,10,digestive
+901,901,-1,555.2,901,Ulcerative colitis,555-564.99,Both,1,0,10,digestive
+902,902,901,555.21,902,Ulcerative colitis (chronic),555-564.99,Both,1,1,10,digestive
+903,903,-1,556,903,Ulceration of the lower GI tract,555-564.99,Both,1,0,10,digestive
+904,904,903,556.1,904,Ulceration of intestine,555-564.99,Both,1,0,10,digestive
+905,905,-1,557,905,Intestinal malabsorption (non-celiac),555-564.99,Both,1,1,10,digestive
+906,906,905,557.1,906,Celiac disease,555-564.99,Both,0,1,10,digestive
+907,907,-1,558,907,Noninfectious gastroenteritis,555-564.99,Both,1,1,10,digestive
+908,908,-1,559,908,Ileostomy status,555-564.99,Both,1,1,10,digestive
+909,909,-1,560.1,909,Paralytic ileus,555-564.99,Both,1,1,10,digestive
+910,910,-1,560.2,910,Impaction of intestine,555-564.99,Both,1,1,10,digestive
+911,911,-1,560.3,911,Peritoneal or intestinal adhesions,555-564.99,Both,1,1,10,digestive
+912,912,-1,560.4,912,Other intestinal obstruction,555-564.99,Both,1,1,10,digestive
+913,913,-1,561,913,Symptoms involving digestive system,555-564.99,Both,1,0,10,digestive
+914,914,913,561.1,914,Diarrhea,555-564.99,Both,1,0,10,digestive
+915,915,913,561.2,915,Flatulence,555-564.99,Both,1,0,10,digestive
+916,916,-1,562.1,916,Diverticulosis,555-564.99,Both,1,1,10,digestive
+917,917,-1,563,917,Constipation,555-564.99,Both,1,0,10,digestive
+918,918,-1,564,918,Functional digestive disorders,555-564.99,,1,0,10,digestive
+919,919,918,564.1,919,Irritable Bowel Syndrome,555-564.99,,1,1,10,digestive
+920,920,918,564.8,920,Abnormal findings on exam of gastrointestinal tract/ abdominal area,555-564.99,Both,1,0,10,digestive
+921,921,918,564.9,921,Personal history of diseases of digestive system,555-564.99,Both,1,1,10,digestive
+922,922,-1,565,922,Anal and rectal conditions,565-569.99,,1,0,10,digestive
+923,923,922,565.1,923,Anal and rectal polyp,565-569.99,Both,1,1,10,digestive
+924,924,-1,567,924,Peritonitis and retroperitoneal infections,565-569.99,,1,1,10,digestive
+925,925,-1,568,925,Other disorders of peritoneum,565-569.99,,1,0,10,digestive
+926,926,925,568.1,926,Peritoneal adhesions (postoperative) (postinfection),565-569.99,Both,1,1,10,digestive
+927,927,-1,569,927,Other disorders of intestine,565-569.99,,1,0,10,digestive
+928,928,927,569.1,928,Toxic gastroenteritis and colitis,565-569.99,Both,1,1,10,digestive
+929,929,927,569.2,929,Gastrointestinal complications,565-569.99,Both,1,1,10,digestive
+930,930,-1,571.5,930,Other chronic nonalcoholic liver disease,570-573.99,Both,1,0,10,digestive
+931,931,930,571.51,931,Cirrhosis of liver without mention of alcohol,570-573.99,Both,1,1,10,digestive
+932,932,-1,571.6,932,Primary biliary cirrhosis,570-573.99,Both,1,1,10,digestive
+933,933,-1,571.8,933,Liver abscess and sequelae of chronic liver disease,570-573.99,Both,1,0,10,digestive
+934,934,933,571.81,934,Portal hypertension,570-573.99,Both,1,1,10,digestive
+935,935,-1,572,935,Ascites (non malignant),570-573.99,,1,1,10,digestive
+936,936,-1,573,936,Other disorders of liver,570-573.99,,1,0,10,digestive
+937,937,936,573.1,937,Chronic passive congestion of liver,570-573.99,Both,1,1,10,digestive
+938,938,936,573.2,938,Liver replaced by transplant,570-573.99,Both,0,1,10,digestive
+939,939,936,573.3,939,Hepatomegaly,570-573.99,Both,0,1,10,digestive
+940,940,936,573.4,940,Acute and subacute necrosis of liver,570-573.99,Both,0,1,10,digestive
+941,941,936,573.5,941,Jaundice (not of newborn),570-573.99,Both,0,1,10,digestive
+942,942,936,573.7,942,Abnormal results of function study of liver,570-573.99,Both,0,1,10,digestive
+943,943,936,573.9,943,Abnormal serum enzyme levels,570-573.99,Both,0,1,10,digestive
+944,944,-1,574.1,944,Cholelithiasis,574-576.99,Both,1,0,10,digestive
+945,945,944,574.11,945,Cholelithiasis with acute cholecystitis,574-576.99,Both,1,1,10,digestive
+946,946,944,574.12,946,Cholelithiasis with other cholecystitis,574-576.99,Both,1,1,10,digestive
+947,947,-1,574.2,947,Calculus of bile duct,574-576.99,Both,1,1,10,digestive
+948,948,-1,574.3,948,Cholecystitis without cholelithiasis,574-576.99,Both,1,1,10,digestive
+949,949,-1,575.1,949,Cholangitis,574-576.99,Both,1,1,10,digestive
+950,950,-1,575.2,950,Obstruction of bile duct,574-576.99,Both,1,1,10,digestive
+951,951,-1,575.6,951,Cholesterolosis of gallbladder,574-576.99,Both,1,1,10,digestive
+952,952,-1,575.7,952,Other disorders of gallbladder,574-576.99,Both,1,1,10,digestive
+953,953,-1,575.8,953,Other disorders of biliary tract,574-576.99,Both,1,1,10,digestive
+954,954,-1,575.9,954,Nonspecific abnormal findings on radiological and other examination of biliary tract,574-576.99,Both,1,1,10,digestive
+955,955,-1,577,955,Diseases of pancreas,577-577.99,,1,0,10,digestive
+956,956,955,577.1,956,Acute pancreatitis,577-577.99,Both,1,1,10,digestive
+957,957,955,577.2,957,Chronic pancreatitis,577-577.99,Both,1,1,10,digestive
+958,958,955,577.3,958,Cyst and pseudocyst of pancreas,577-577.99,Both,1,1,10,digestive
+959,959,-1,578.1,959,Hematemesis,578-579.99,Both,1,1,10,digestive
+960,960,-1,578.2,960,Blood in stool,578-579.99,Both,1,1,10,digestive
+961,961,-1,578.8,961,Hemorrhage of rectum and anus,578-579.99,Both,1,1,10,digestive
+962,962,-1,578.9,962,Hemorrhage of gastrointestinal tract,578-579.99,Both,1,1,10,digestive
+963,963,-1,579,963,Other symptoms involving abdomen and pelvis,578-579.99,,1,0,10,digestive
+964,964,963,579.2,964,Splenomegaly,578-579.99,Both,1,1,10,digestive
+965,965,963,579.8,965,Nonspecific abnormal findings in stool contents,578-579.99,Both,0,1,10,digestive
+966,966,-1,580.11,966,Proliferative glomerulonephritis,580-590.99,Both,1,1,11,genitourinary
+967,967,-1,580.12,967,Non-proliferative glomerulonephritis,580-590.99,Both,1,1,11,genitourinary
+968,968,-1,580.14,968,"Chronic glomerulonephritis, NOS",580-590.99,Both,1,1,11,genitourinary
+969,969,-1,580.2,969,Nephrotic syndrome without mention of glomerulonephritis,580-590.99,Both,1,1,11,genitourinary
+970,970,-1,580.32,970,Nephritis and nephropathy with pathological lesion,580-590.99,Both,1,1,11,genitourinary
+971,971,-1,585.1,971,Acute renal failure,580-590.99,Both,1,1,11,genitourinary
+972,972,-1,585.2,972,Renal failure NOS,580-590.99,Both,1,1,11,genitourinary
+973,973,-1,585.3,973,Chronic renal failure [CKD],580-590.99,Both,1,0,11,genitourinary
+974,974,973,585.31,974,Renal dialysis,580-590.99,Both,1,1,11,genitourinary
+975,975,-1,586,975,Other disorders of the kidney and ureters,580-590.99,,1,0,11,genitourinary
+976,976,-1,586.11,976,Small kidney,580-590.99,Both,1,1,11,genitourinary
+977,977,-1,586.12,977,Vesicoureteral reflux,580-590.99,Both,1,1,11,genitourinary
+978,978,975,586.2,978,"Cyst of kidney, acquired",580-590.99,Both,1,1,11,genitourinary
+979,979,975,586.3,979,Vascular disorders of kidney/hypertrophy,580-590.99,Both,1,1,11,genitourinary
+980,980,975,586.4,980,Stricture/obstruction of ureter,580-590.99,Both,1,1,11,genitourinary
+981,981,-1,587,981,Kidney replaced by transpant,580-590.99,,1,1,11,genitourinary
+982,982,-1,588,982,Disorders resulting from impaired renal function,580-590.99,,1,0,11,genitourinary
+983,983,982,588.1,983,Renal osteodystrophy,580-590.99,Both,1,1,11,genitourinary
+984,984,-1,589,984,Abnormal results of function study of kidney,580-590.99,,1,1,11,genitourinary
+985,985,-1,590,985,Pyelonephritis,590-593.99,,1,1,11,genitourinary
+986,986,-1,591,986,Urinary tract infection,590-593.99,,1,1,11,genitourinary
+987,987,-1,592.1,987,Cystitis,590-593.99,Both,1,0,11,genitourinary
+988,988,987,592.11,988,Acute cystitis,590-593.99,Both,1,1,11,genitourinary
+989,989,987,592.12,989,Chronic cystitis,590-593.99,Both,1,1,11,genitourinary
+990,990,987,592.13,990,Chronic interstitial cystitis,590-593.99,Both,1,1,11,genitourinary
+991,991,-1,592.2,991,Urethritis and urethral syndrome,590-593.99,Both,1,0,11,genitourinary
+992,992,991,592.21,992,Urethral syndrome,590-593.99,Both,1,1,11,genitourinary
+993,993,-1,593,993,Hematuria,590-593.99,Both,1,0,11,genitourinary
+994,994,-1,594,994,Urinary calculus,594-595.99,Both,1,0,11,genitourinary
+995,995,994,594.1,995,Calculus of kidney,594-595.99,Both,1,1,11,genitourinary
+996,996,994,594.2,996,Calculus of lower urinary tract,594-595.99,Both,1,1,11,genitourinary
+997,997,994,594.3,997,Calculus of ureter,594-595.99,Both,1,1,11,genitourinary
+998,998,994,594.8,998,Renal colic,594-595.99,Both,1,1,11,genitourinary
+999,999,-1,595,999,Hydronephrosis,594-595.99,,1,1,11,genitourinary
+1000,1000,-1,596,1000,Other disorders of bladder,595-597.99,,1,0,11,genitourinary
+1001,1001,1000,596.1,1001,Bladder neck obstruction,595-597.99,Both,1,1,11,genitourinary
+1002,1002,1000,596.5,1002,Functional disorders of bladder,595-597.99,Both,1,1,11,genitourinary
+1003,1003,-1,597,1003,Other disorders of urethra and urinary tract,595-597.99,,1,0,11,genitourinary
+1004,1004,1003,597.1,1004,Urethral stricture (not specified as infectious),595-597.99,Both,1,1,11,genitourinary
+1005,1005,1003,597.2,1005,Urinary complications NEC,595-597.99,Both,0,1,11,genitourinary
+1006,1006,-1,598,1006,Abnormal findings on examination of urine,598-598.99,,1,0,11,genitourinary
+1007,1007,1006,598.9,1007,Other nonspecific findings on examination of urine,598-598.99,Both,1,0,11,genitourinary
+1008,1008,-1,599,1008,Other symptoms/disorders or the urinary system,599-599.99,,1,0,11,genitourinary
+1009,1009,1008,599.1,1009,Urinary obstruction,599-599.99,,0,1,11,genitourinary
+1010,1010,1008,599.2,1010,Retention of urine,599-599.99,,0,1,11,genitourinary
+1011,1011,1008,599.3,1011,Dysuria,599-599.99,Both,1,1,11,genitourinary
+1012,1012,1008,599.4,1012,Urinary incontinence,599-599.99,Both,1,1,11,genitourinary
+1013,1013,1008,599.5,1013,Frequency of urination and polyuria,599-599.99,Both,1,1,11,genitourinary
+1014,1014,1008,599.6,1014,Oliguria and anuria,599-599.99,Both,1,1,11,genitourinary
+1015,1015,1008,599.7,1015,Urethral discharge,599-599.99,Both,1,1,11,genitourinary
+1016,1016,1008,599.8,1016,Other symptoms involving urinary system,599-599.99,Both,1,1,11,genitourinary
+1017,1017,1008,599.9,1017,Other abnormality of urination,599-599.99,Both,1,1,11,genitourinary
+1018,1018,-1,600,1018,Hyperplasia of prostate,"185-187.99, 796-796.99, 600-602.99",Male,1,1,11,genitourinary
+1019,1019,-1,601.1,1019,Prostatitis,"185-187.99, 796-796.99, 600-602.99",Male,1,0,11,genitourinary
+1020,1020,1019,601.11,1020,Acute prostatitis,"185-187.99, 796-796.99, 600-602.99",Male,1,1,11,genitourinary
+1021,1021,1019,601.12,1021,Chronic prostatitis,"185-187.99, 796-796.99, 600-602.99",Male,1,1,11,genitourinary
+1022,1022,-1,601.4,1022,Balanoposthitis,"185-187.99, 796-796.99, 600-602.99",Male,1,1,11,genitourinary
+1023,1023,-1,601.8,1023,Other inflammatory disorders of male genital organs,"185-187.99, 796-796.99, 600-602.99",Male,1,1,11,genitourinary
+1024,1024,-1,602,1024,Other disorders of prostate,"185-187.99, 796-796.99, 600-602.99",Male,1,0,11,genitourinary
+1025,1025,-1,603,1025,Other disorders of testis,600-609.99,Male,1,0,11,genitourinary
+1026,1026,1025,603.1,1026,Hydrocele,600-609.99,Male,1,1,11,genitourinary
+1027,1027,1025,603.2,1027,Spermatocele,600-609.99,Male,1,1,11,genitourinary
+1028,1028,-1,604,1028,Disorders of penis,600-609.99,Male,1,0,11,genitourinary
+1029,1029,1028,604.1,1029,Redundant prepuce and phimosis/BXO,600-609.99,Male,1,1,11,genitourinary
+1030,1030,-1,605,1030,Erectile dysfunction [ED],600-609.99,Male,1,1,11,genitourinary
+1031,1031,-1,608,1031,Other disorders of male genital organs,600-609.99,Male,1,1,11,genitourinary
+1032,1032,-1,609.1,1032,"Infertility, male",600-609.99,Male,1,0,11,genitourinary
+1033,1033,-1,609.2,1033,Abnormal spermatozoa,600-609.99,Male,1,1,11,genitourinary
+1034,1034,-1,610.1,1034,Cystic mastopathy,610-613.99,Female,1,1,11,genitourinary
+1035,1035,-1,610.2,1035,Fibroadenosis of breast,610-613.99,Female,1,1,11,genitourinary
+1036,1036,-1,610.3,1036,Fibrosclerosis of breast,610-613.99,Female,1,1,11,genitourinary
+1037,1037,-1,610.4,1037,Benign neoplasm of breast,610-613.99,Female,1,1,11,genitourinary
+1038,1038,-1,610.8,1038,Other specified benign mammary dysplasias,610-613.99,Female,0,1,11,genitourinary
+1039,1039,-1,611.1,1039,Abnormal mammogram,610-613.99,Both,1,0,11,genitourinary
+1040,1040,-1,611.3,1040,Lump or mass in breast,610-613.99,Both,1,1,11,genitourinary
+1041,1041,-1,612.1,1041,Galactorrhea,610-613.99,Both,1,1,11,genitourinary
+1042,1042,-1,612.2,1042,Hypertrophy of breast (Gynecomastia),610-613.99,Both,1,1,11,genitourinary
+1043,1043,-1,612.3,1043,Congenital anomalies of breast,610-613.99,Both,1,1,11,genitourinary
+1044,1044,-1,613,1044,Other nonmalignant breast conditions,613-613.99,Both,1,0,11,genitourinary
+1045,1045,1044,613.1,1045,Inflammatory disease of breast,613-613.99,Both,1,1,11,genitourinary
+1046,1046,1044,613.5,1046,Mastodynia,613-613.99,Both,1,1,11,genitourinary
+1047,1047,1044,613.7,1047,Other signs and symptoms in breast,613-613.99,Both,1,1,11,genitourinary
+1048,1048,1044,613.8,1048,Other specified disorders of breast,613-613.99,Both,1,1,11,genitourinary
+1049,1049,1044,613.9,1049,Breast disorder NOS,613-613.99,Both,1,1,11,genitourinary
+1050,1050,-1,614,1050,Inflammatory diseases of female pelvic organs,614-616.99,Female,1,0,11,genitourinary
+1051,1051,1050,614.1,1051,"Pelvic peritoneal adhesions, female (postoperative) (postinfection)",614-616.99,Female,1,1,11,genitourinary
+1052,1052,1050,614.3,1052,Pelvic inflammatory disease (PID),614-616.99,Female,1,0,11,genitourinary
+1053,1053,1052,614.31,1053,Acute inflammatory pelvic disease,614-616.99,Female,1,1,11,genitourinary
+1054,1054,1052,614.32,1054,Chronic inflammatory pelvic disease,614-616.99,Female,1,1,11,genitourinary
+1055,1055,1052,614.33,1055,"Pelvic inflammatory disease, NOS",614-616.99,Female,1,1,11,genitourinary
+1056,1056,1050,614.4,1056,"Inflammatory diseases of uterus, except cervix",614-616.99,Female,1,1,11,genitourinary
+1057,1057,1050,614.5,1057,"Inflammatory disease of cervix, vagina, and vulva",614-616.99,Female,1,0,11,genitourinary
+1058,1058,1057,614.51,1058,Cervicitis and endocervicitis,614-616.99,Female,1,1,11,genitourinary
+1059,1059,1057,614.52,1059,Vaginitis and vulvovaginitis,614-616.99,Female,1,1,11,genitourinary
+1060,1060,1057,614.53,1060,Cyst or abscess of Bartholin's gland,614-616.99,Female,1,1,11,genitourinary
+1061,1061,1057,614.54,1061,Abscess or ulceration of vulva,614-616.99,Female,1,1,11,genitourinary
+1062,1062,-1,615,1062,Endometriosis,614-616.99,Female,1,1,11,genitourinary
+1063,1063,-1,617,1063,"Disorders secondary to childbirth, surgery, trauma",617-618.99,Female,1,0,11,genitourinary
+1064,1064,-1,618,1064,Genital prolapse,617-618.99,Female,1,0,11,genitourinary
+1065,1065,1064,618.1,1065,Prolapse of vaginal walls,617-618.99,Female,1,1,11,genitourinary
+1066,1066,1064,618.2,1066,Uterine/Uterovaginal prolapse,617-618.99,Female,1,1,11,genitourinary
+1067,1067,1064,618.5,1067,Prolapse of vaginal vault after hysterectomy,617-618.99,Female,1,1,11,genitourinary
+1068,1068,1064,618.6,1068,"Vaginal enterocele, congenital or acquired",617-618.99,Female,1,1,11,genitourinary
+1069,1069,-1,619,1069,Noninflammatory female genital disorders,619-619.99,Female,1,0,11,genitourinary
+1070,1070,1069,619.1,1070,"Noninflammatory disorders of ovary, fallopian tube, and broad ligament",619-619.99,Female,1,1,11,genitourinary
+1071,1071,1069,619.2,1071,"Disorders of uterus, NEC",619-619.99,Female,1,1,11,genitourinary
+1072,1072,1069,619.3,1072,Noninflammatory disorders of cervix,619-619.99,Female,1,1,11,genitourinary
+1073,1073,1069,619.4,1073,Noninflammatory disorders of vagina,619-619.99,Female,1,1,11,genitourinary
+1074,1074,1069,619.5,1074,Noninflammatory disorders of vulva and perineum,619-619.99,Female,1,1,11,genitourinary
+1075,1075,-1,620,1075,Dysplasia of female genital organs,620-623.99,Female,1,0,11,genitourinary
+1076,1076,-1,621,1076,Endometrial hyperplasia,620-623.99,Female,1,1,11,genitourinary
+1077,1077,-1,622,1077,Polyp of female genital organs,620-623.99,Female,1,0,11,genitourinary
+1078,1078,1077,622.1,1078,Polyp of corpus uteri,620-623.99,Female,1,1,11,genitourinary
+1079,1079,1077,622.2,1079,Mucous polyp of cervix,620-623.99,Female,1,1,11,genitourinary
+1080,1080,-1,623,1080,Hypertrophy of female genital organs,620-623.99,Female,1,1,11,genitourinary
+1081,1081,-1,624,1081,Symptoms involving female genital tract,624-625.99,Female,1,0,11,genitourinary
+1082,1082,1081,624.1,1082,Dystrophy of female genital tract,624-625.99,Female,1,1,11,genitourinary
+1083,1083,1081,624.2,1083,Atrophy of female genital tract,624-625.99,Female,1,1,11,genitourinary
+1084,1084,1081,624.9,1084,"stress incontinence, female",624-625.99,Female,0,1,11,genitourinary
+1085,1085,-1,625,1085,Pain and other symptoms associated with female genital organs,624-625.99,Female,1,0,11,genitourinary
+1086,1086,1085,625.1,1086,Dyspareunia,624-625.99,Female,1,1,11,genitourinary
+1087,1087,-1,626,1087,Disorders of menstruation and other abnormal bleeding from female genital tract,626-628.99,Female,1,0,11,genitourinary
+1088,1088,1087,626.1,1088,Irregular menstrual cycle/bleeding,626-628.99,Female,1,0,11,genitourinary
+1089,1089,1088,626.11,1089,Absent or infrequent menstruation,626-628.99,Female,1,1,11,genitourinary
+1090,1090,1088,626.12,1090,Excessive or frequent menstruation,626-628.99,Female,1,1,11,genitourinary
+1091,1091,1088,626.13,1091,Irregular menstrual cycle,626-628.99,Female,1,1,11,genitourinary
+1092,1092,1088,626.14,1092,Irregular menstrual bleeding,626-628.99,Female,1,1,11,genitourinary
+1093,1093,1088,626.15,1093,"Infertility, female, associated with anovulation",626-628.99,Female,1,1,11,genitourinary
+1094,1094,1087,626.2,1094,Dysmenorrhea,626-628.99,Female,1,0,11,genitourinary
+1095,1095,1094,626.21,1095,Mittelschmerz,626-628.99,Female,1,1,11,genitourinary
+1096,1096,1087,626.4,1096,Premenstrual tension syndromes,626-628.99,Female,1,1,11,genitourinary
+1097,1097,1087,626.8,1097,"Infertility, female",626-628.99,Female,1,1,11,genitourinary
+1098,1098,-1,627,1098,Menopausal and postmenopausal disorders,626-628.99,Female,1,0,11,genitourinary
+1099,1099,1098,627.1,1099,Postmenopausal bleeding,626-628.99,Female,1,1,11,genitourinary
+1100,1100,1098,627.2,1100,Symptomatic menopause,626-628.99,Female,1,0,11,genitourinary
+1101,1101,1098,627.3,1101,Postmenopausal atrophic vaginitis,626-628.99,Female,1,1,11,genitourinary
+1102,1102,1098,627.4,1102,Premenopausal menorrhagia,626-628.99,Female,1,1,11,genitourinary
+1103,1103,1098,627.5,1103,Premature menopause and other ovarian failure,626-628.99,Female,1,1,11,genitourinary
+1104,1104,-1,628,1104,Ovarian cyst,626-628.99,Female,1,1,11,genitourinary
+1105,1105,-1,634,1105,Miscarriage; stillbirth,634-636.99,Female,1,0,12,pregnancy complications
+1106,1106,1105,634.1,1106,Missed abortion/Hydatidiform mole,634-636.99,Female,1,1,12,pregnancy complications
+1107,1107,1105,634.3,1107,Ectopic pregnancy,634-636.99,Female,1,1,12,pregnancy complications
+1108,1108,-1,635,1108,Hemorrhage during pregnancy; childbirth and postpartum,634-636.99,Female,1,0,12,pregnancy complications
+1109,1109,1108,635.2,1109,"Antepartum hemorrhage, abruptio placentae, and placenta previa",634-636.99,Female,1,1,12,pregnancy complications
+1110,1110,1108,635.3,1110,Placenta previa and abruptio placenta,634-636.99,Female,1,1,12,pregnancy complications
+1111,1111,-1,636,1111,Early or threatened labor; hemorrhage in early pregnancy,634-636.99,Female,1,0,12,pregnancy complications
+1112,1112,1111,636.2,1112,Early onset of delivery,634-636.99,Female,1,1,12,pregnancy complications
+1113,1113,1111,636.3,1113,Hemorrhage in early pregnancy,634-636.99,Female,1,1,12,pregnancy complications
+1114,1114,1111,636.8,1114,Cervical incompetence,634-636.99,Female,1,1,12,pregnancy complications
+1115,1115,-1,637,1115,Short gestation; low birth weight; and fetal growth retardation,634-639.99,Both,1,1,12,pregnancy complications
+1116,1116,-1,638,1116,Other high-risk pregnancy,634-639.99,Female,1,0,12,pregnancy complications
+1117,1117,-1,639,1117,Complications following abortion or ectopic and molar pregnancies,634-639.99,Female,1,0,12,pregnancy complications
+1118,1118,-1,642,1118,"Hypertension complicating pregnancy, childbirth, and the puerperium",642-642.99,Female,1,0,12,pregnancy complications
+1119,1119,1118,642.1,1119,Preeclampsia and eclampsia,642-642.99,Female,1,1,12,pregnancy complications
+1120,1120,-1,643,1120,Excessive vomiting in pregnancy,643-643.99,Female,1,0,12,pregnancy complications
+1121,1121,1120,643.1,1121,Hyperemesis gravidarum,643-643.99,Female,1,1,12,pregnancy complications
+1122,1122,-1,644,1122,Anemia during pregnancy,644-644.99,Female,1,1,12,pregnancy complications
+1123,1123,-1,645,1123,Late pregnancy and failed induction,645-645.99,Female,1,0,12,pregnancy complications
+1124,1124,-1,646,1124,Other complications of pregnancy NEC,646-646.99,Female,1,1,12,pregnancy complications
+1125,1125,-1,647,1125,Infectious and parasitic complications affecting pregnancy,647-647.99,Female,1,1,12,pregnancy complications
+1126,1126,1125,647.1,1126,Infections of genitourinary tract during pregnancy,647-647.99,Female,0,1,12,pregnancy complications
+1127,1127,1125,647.3,1127,Major puerperal infection,647-647.99,Female,0,1,12,pregnancy complications
+1128,1128,-1,649,1128,"Other conditions or status of the mother complicating pregnancy, childbirth, or the puerperium",649-649.99,Female,1,1,12,pregnancy complications
+1129,1129,1128,649.1,1129,Diabetes or abnormal glucose tolerance complicating pregnancy,649-649.99,Female,0,1,12,pregnancy complications
+1130,1130,-1,650,1130,Normal delivery,650-650.99,Female,1,0,12,pregnancy complications
+1131,1131,-1,651,1131,Multiple gestation,651-651.99,Female,1,0,12,pregnancy complications
+1132,1132,-1,652,1132,Malposition and malpresentation of fetus or obstruction,652-654.99,Female,1,0,12,pregnancy complications
+1133,1133,-1,653,1133,Problems associated with amniotic cavity and membranes,652-654.99,Female,1,1,12,pregnancy complications
+1134,1134,-1,654,1134,Other and unspecified complications of birth; puerperium affecting management of mother,652-654.99,Female,1,1,12,pregnancy complications
+1135,1135,1134,654.1,1135,"Abnormality of organs and soft tissues of pelvis complicating pregnancy, childbirth, or the puerperium",652-654.99,Female,0,1,12,pregnancy complications
+1136,1136,1134,654.2,1136,Rhesus isoimmunization in pregnancy,652-654.99,Female,0,1,12,pregnancy complications
+1137,1137,-1,655,1137,Known or suspected fetal abnormality affecting management of mother,655-655.99,Female,1,0,12,pregnancy complications
+1138,1138,-1,656,1138,Other perinatal conditions of fetus or newborn,656-656.99,Both,1,0,12,pregnancy complications
+1139,1139,1138,656.2,1139,Respiratory conditions of fetus and newborn,656-656.99,Both,1,0,12,pregnancy complications
+1140,1140,1139,656.22,1140,Interstitial emphysema and related conditions of newborn,656-656.99,Both,1,1,12,pregnancy complications
+1141,1141,1139,656.26,1141,Transitory tachypnea or apnea of newborn,656-656.99,Both,1,1,12,pregnancy complications
+1142,1142,1138,656.3,1142,Endocrine and metabolic disturbances of fetus and newborn,656-656.99,Both,1,1,12,pregnancy complications
+1143,1143,1138,656.5,1143,Hematological disorders of newborn,656-656.99,Both,1,1,12,pregnancy complications
+1144,1144,1138,656.7,1144,Conditions involving the integument and temperature regulation of fetus and newborn,656-656.99,Both,1,1,12,pregnancy complications
+1145,1145,1138,656.8,1145,Perinatal jaundice,656-656.99,Both,1,1,12,pregnancy complications
+1146,1146,1138,656.9,1146,Neonatal bradycardia or tachycardia,656-656.99,Both,1,1,12,pregnancy complications
+1147,1147,-1,657,1147,Infections specific to the perinatal period,657-657.99,Both,1,1,12,pregnancy complications
+1148,1148,-1,658,1148,Maternal complication of pregnancy affecting fetus or newborn,658-658.99,Female,1,0,12,pregnancy complications
+1149,1149,-1,661,1149,Fetal distress and abnormal forces of labor,660-669.99,Female,1,0,12,pregnancy complications
+1150,1150,-1,663,1150,Umbilical cord complications during labor and delivery,660-669.99,Female,1,0,12,pregnancy complications
+1151,1151,-1,665,1151,Obstetrical/birth trauma,660-669.99,Female,1,0,12,pregnancy complications
+1152,1152,-1,668,1152,Complications of the administration of anesthetic or other sedation in labor and delivery,660-669.99,Female,1,0,12,pregnancy complications
+1153,1153,-1,669,1153,Complications of labor and delivery NEC,660-669.99,Female,1,1,12,pregnancy complications
+1154,1154,-1,671,1154,Venous/cerebrovascular complications embolism in pregnancy and the puerperium,670-677.99,Female,1,1,12,pregnancy complications
+1155,1155,-1,674,1155,Other complications of the puerperium NEC,670-677.99,Female,1,1,12,pregnancy complications
+1156,1156,-1,676,1156,Other disorders of the breast associated with childbirth and disorders of lactation,670-677.99,Female,1,1,12,pregnancy complications
+1157,1157,-1,679,1157,Complications of in utero procedures,678-679.99,Female,1,0,12,pregnancy complications
+1158,1158,-1,681,1158,Superficial cellulitis and abscess,680-686.99,Both,1,0,13,dermatologic
+1159,1159,1158,681.1,1159,Cellulitis and abscess of fingers/toes,680-686.99,Both,1,1,13,dermatologic
+1160,1160,1158,681.2,1160,Cellulitis and abscess of face/neck,680-686.99,Both,1,1,13,dermatologic
+1161,1161,1158,681.3,1161,Cellulitis and abscess of arm/hand,680-686.99,Both,1,1,13,dermatologic
+1162,1162,1158,681.7,1162,Cellulitis and abscess of trunk,680-686.99,Both,1,1,13,dermatologic
+1163,1163,-1,686,1163,Other local infections of skin and subcutaneous tissue,680-686.99,Both,1,1,13,dermatologic
+1164,1164,1163,686.1,1164,Carbuncle and furuncle,680-686.99,Both,0,1,13,dermatologic
+1165,1165,1163,686.2,1165,Impetigo,680-686.99,Both,0,1,13,dermatologic
+1166,1166,1163,686.3,1166,Pilonidal cyst,680-686.99,Both,0,1,13,dermatologic
+1167,1167,1163,686.4,1167,Pyogenic granuloma,680-686.99,Both,0,1,13,dermatologic
+1168,1168,1163,686.5,1168,Pyoderma,680-686.99,Both,0,1,13,dermatologic
+1169,1169,-1,687,1169,Symptoms affecting skin,687-687.99,Both,1,0,13,dermatologic
+1170,1170,1169,687.1,1170,Rash and other nonspecific skin eruption,687-687.99,Both,0,1,13,dermatologic
+1171,1171,1169,687.2,1171,"Localized superficial swelling, mass, or lump",687-687.99,Both,1,0,13,dermatologic
+1172,1172,1169,687.3,1172,Changes in skin texture,687-687.99,Both,1,1,13,dermatologic
+1173,1173,1169,687.4,1173,Disturbance of skin sensation,687-687.99,Both,0,1,13,dermatologic
+1174,1174,-1,689,1174,Disorder of skin and subcutaneous tissue NOS,689-689.99,Both,1,1,13,dermatologic
+1175,1175,-1,690,1175,Erythematosquamous dermatosis,690-697.99,Both,1,0,13,dermatologic
+1176,1176,1175,690.1,1176,Seborrheic dermatitis,690-697.99,Both,1,1,13,dermatologic
+1177,1177,-1,691,1177,Congenital anomalies of skin,690-697.99,Both,1,0,13,dermatologic
+1178,1178,1177,691.1,1178,Ichthyosis congenita,690-697.99,Both,1,1,13,dermatologic
+1179,1179,1177,691.3,1179,Congenital pigmentary anomalies of skin,690-697.99,Both,1,1,13,dermatologic
+1180,1180,-1,694.1,1180,Vitiligo,690-697.99,Both,1,1,13,dermatologic
+1181,1181,-1,694.2,1181,Other dyschromia,690-697.99,Both,1,1,13,dermatologic
+1182,1182,-1,694.3,1182,Vascular disorders of skin,690-697.99,Both,1,1,13,dermatologic
+1183,1183,-1,695.1,1183,Toxic erythema,690-697.99,Both,1,1,13,dermatologic
+1184,1184,-1,695.2,1184,Bullous dermatoses,690-697.99,Both,1,0,13,dermatologic
+1185,1185,1184,695.21,1185,Dermatitis herpetiformis,690-697.99,Both,1,1,13,dermatologic
+1186,1186,1184,695.22,1186,Pemphigus and pemphigoid,690-697.99,Both,1,1,13,dermatologic
+1187,1187,-1,695.3,1187,Rosacea,690-697.99,,1,1,13,dermatologic
+1188,1188,-1,695.41,1188,Cutaneous lupus erythematosus,"690-697.99, 335-335.99",Both,1,1,13,dermatologic
+1189,1189,-1,695.42,1189,Systemic lupus erythematosus,"690-697.99, 335-335.99",Both,1,1,13,dermatologic
+1190,1190,-1,695.7,1190,Prurigo and Lichen,690-697.99,Both,1,1,13,dermatologic
+1191,1191,-1,695.8,1191,Other specified erythematous conditions,690-697.99,Both,1,0,13,dermatologic
+1192,1192,1191,695.81,1192,Erythema nodosum,690-697.99,Both,1,1,13,dermatologic
+1193,1193,-1,695.9,1193,Unspecified erythematous condition,690-697.99,Both,1,1,13,dermatologic
+1194,1194,-1,696.2,1194,Parapsoriasis,690-697.99,Both,1,1,13,dermatologic
+1195,1195,-1,696.3,1195,Pityriasis,690-697.99,Both,1,1,13,dermatologic
+1196,1196,-1,696.4,1196,Psoriasis,"690-697.99, 714-714.99",Both,1,0,13,dermatologic
+1197,1197,1196,696.41,1197,Psoriasis vulgaris,"690-697.99, 714-714.99",Both,1,1,13,dermatologic
+1198,1198,1196,696.42,1198,Psoriatic arthropathy,"690-697.99, 714-714.99",Both,1,1,13,dermatologic
+1199,1199,-1,697,1199,Sarcoidosis,690-697.99,Both,1,1,13,dermatologic
+1200,1200,-1,698,1200,Pruritus and related conditions,698-699.99,,1,1,13,dermatologic
+1201,1201,-1,700,1201,Corns and callosities,700-701.99,,1,1,13,dermatologic
+1202,1202,-1,701,1202,Other hypertrophic and atrophic conditions of skin,700-701.99,Both,1,0,13,dermatologic
+1203,1203,1202,701.1,1203,"Keratoderma, acquired",700-701.99,Both,1,1,13,dermatologic
+1204,1204,1202,701.2,1204,Scar conditions and fibrosis of skin,700-701.99,Both,1,1,13,dermatologic
+1205,1205,1202,701.3,1205,Circumscribed scleroderma,700-701.99,Both,1,1,13,dermatologic
+1206,1206,1202,701.4,1206,Keloid scar,700-701.99,Both,1,1,13,dermatologic
+1207,1207,1202,701.5,1207,Abnormal granulation tissue,700-701.99,Both,1,1,13,dermatologic
+1208,1208,1202,701.6,1208,Acquired acanthosis nigricans,700-701.99,Both,1,1,13,dermatologic
+1209,1209,-1,702,1209,Degenerative skin conditions and other dermatoses,700-702.99,,1,0,13,dermatologic
+1210,1210,1209,702.1,1210,Actinic keratosis,702-702.99,Both,1,1,13,dermatologic
+1211,1211,1209,702.2,1211,Seborrheic keratosis,702-702.99,Both,1,1,13,dermatologic
+1212,1212,1209,702.4,1212,Degenerative skin disorders,700-702.99,Both,1,1,13,dermatologic
+1213,1213,-1,703,1213,"Diseases of nail, NOS",703-704.99,,1,1,13,dermatologic
+1214,1214,1213,703.1,1214,Ingrowing nail,703-704.99,Both,0,1,13,dermatologic
+1215,1215,-1,704,1215,Diseases of hair and hair follicles,703-704.99,Both,1,0,13,dermatologic
+1216,1216,1215,704.1,1216,Alopecia,703-704.99,Both,1,0,13,dermatologic
+1217,1217,1216,704.11,1217,Alopecia Areata,703-704.99,Both,1,1,13,dermatologic
+1218,1218,1215,704.2,1218,Hirsutism,703-704.99,Both,0,1,13,dermatologic
+1219,1219,1215,704.8,1219,Other specified diseases of hair and hair follicles,703-704.99,Both,1,1,13,dermatologic
+1220,1220,-1,705,1220,Disorders of sweat glands,705-706.99,Both,1,0,13,dermatologic
+1221,1221,1220,705.1,1221,Dyshidrosis,705-706.99,Both,1,1,13,dermatologic
+1222,1222,1220,705.3,1222,Hidradenitis,705-706.99,Both,1,1,13,dermatologic
+1223,1223,1220,705.8,1223,Hyperhidrosis,705-706.99,Both,0,1,13,dermatologic
+1224,1224,-1,706.1,1224,Acne,705-706.99,Both,1,1,13,dermatologic
+1225,1225,-1,706.2,1225,Sebaceous cyst,705-706.99,Both,1,1,13,dermatologic
+1226,1226,-1,706.8,1226,Other specified diseases of sebaceous glands,705-706.99,Both,1,1,13,dermatologic
+1227,1227,-1,707,1227,Chronic ulcer of skin,707-707.99,,1,0,13,dermatologic
+1228,1228,1227,707.1,1228,Decubitus ulcer,707-707.99,Both,1,1,13,dermatologic
+1229,1229,-1,709.2,1229,Sicca syndrome,"690-697.99, 708-709.99",Both,1,1,13,dermatologic
+1230,1230,-1,709.3,1230,Systemic sclerosis,"690-697.99, 708-709.99",Both,1,1,13,dermatologic
+1231,1231,-1,709.4,1231,Polymyositis,"690-697.99, 708-709.99",Both,1,1,13,dermatologic
+1232,1232,-1,709.5,1232,Dermatomyositis,"690-697.99, 708-709.99",Both,1,1,13,dermatologic
+1233,1233,-1,709.6,1233,Other specified diffuse diseases of connective tissue,"690-697.99, 708-709.99",Both,1,1,13,dermatologic
+1234,1234,-1,709.7,1234,Unspecified diffuse connective tissue disease,"690-697.99, 708-709.99",Both,1,1,13,dermatologic
+1235,1235,-1,710,1235,"Osteomyelitis, periostitis, and other infections involving bone",710-716.99,,1,0,14,musculoskeletal
+1236,1236,-1,710.11,1236,Acute osteomyelitis,710-716.99,Both,1,1,14,musculoskeletal
+1237,1237,-1,710.12,1237,Chronic osteomyelitis,710-716.99,Both,1,1,14,musculoskeletal
+1238,1238,-1,710.19,1238,Unspecified osteomyelitis,710-716.99,Both,1,1,14,musculoskeletal
+1239,1239,1235,710.3,1239,Osteopathy resulting from poliomyelitis,710-716.99,Both,1,1,14,musculoskeletal
+1240,1240,-1,711,1240,Arthropathy associated with infections,710-716.99,,1,0,14,musculoskeletal
+1241,1241,1240,711.1,1241,Pyogenic arthritis,710-716.99,Both,1,1,14,musculoskeletal
+1242,1242,1240,711.2,1242,Reiter's disease,710-716.99,Both,1,1,14,musculoskeletal
+1243,1243,1240,711.3,1243,Behcet's syndrome,710-716.99,Both,1,1,14,musculoskeletal
+1244,1244,-1,712,1244,Infective connective tissue disorders,710-716.99,,1,1,14,musculoskeletal
+1245,1245,-1,713,1245,Arthropathy associated with other disorders classified elsewhere,710-716.99,,1,0,14,musculoskeletal
+1246,1246,1245,713.5,1246,Arthropathy associated with neurological disorders,710-716.99,Both,1,1,14,musculoskeletal
+1247,1247,-1,714,1247,Rheumatoid arthritis and other inflammatory polyarthropathies,"714-716.00, 696-696.99",,1,0,14,musculoskeletal
+1248,1248,1247,714.1,1248,Rheumatoid arthritis,"714-716.00, 696-696.99",Both,1,1,14,musculoskeletal
+1249,1249,1247,714.2,1249,Juvenile rheumatoid arthritis,"714-716.00, 696-696.99",Both,1,1,14,musculoskeletal
+1250,1250,-1,715,1250,Other inflammatory spondylopathies,"714-716.00, 696-696.99",,1,0,14,musculoskeletal
+1251,1251,1250,715.1,1251,Sacroiliitis NEC,"714-716.00, 696-696.99",Both,1,1,14,musculoskeletal
+1252,1252,1250,715.2,1252,Ankylosing spondylitis,"714-716.00, 696-696.99",Both,1,1,14,musculoskeletal
+1253,1253,1250,715.3,1253,Spinal enthesopathy,"714-716.00, 696-696.99",Both,1,1,14,musculoskeletal
+1254,1254,-1,716,1254,Other arthropathies,710-716.99,,1,0,14,musculoskeletal
+1255,1255,1254,716.2,1255,Unspecified monoarthritis,710-716.99,Both,1,1,14,musculoskeletal
+1256,1256,1254,716.8,1256,Palindromic rheumatism,710-716.99,Both,1,1,14,musculoskeletal
+1257,1257,1254,716.9,1257,Arthropathy NOS,710-716.99,Both,1,1,14,musculoskeletal
+1258,1258,-1,717,1258,Polymyalgia Rheumatica,717-717.99,,1,1,14,musculoskeletal
+1259,1259,-1,720,1259,Spinal stenosis,720-724.99,,1,0,14,musculoskeletal
+1260,1260,-1,721,1260,Spondylosis and allied disorders,720-724.99,,1,0,14,musculoskeletal
+1261,1261,1260,721.1,1261,Spondylosis without myelopathy,720-724.99,Both,1,1,14,musculoskeletal
+1262,1262,1260,721.2,1262,Spondylosis with myelopathy,720-724.99,Both,1,1,14,musculoskeletal
+1263,1263,1260,721.8,1263,Other allied disorders of spine,720-724.99,Both,1,1,14,musculoskeletal
+1264,1264,-1,722.1,1264,Displacement of intervertebral disc,720-724.99,Both,1,1,14,musculoskeletal
+1265,1265,-1,722.3,1265,Schmorl's nodes,720-724.99,Both,1,1,14,musculoskeletal
+1266,1266,-1,722.6,1266,Degeneration of intervertebral disc,720-724.99,Both,1,1,14,musculoskeletal
+1267,1267,-1,722.7,1267,Intervertebral disc disorder with myelopathy,720-724.99,Both,1,1,14,musculoskeletal
+1268,1268,-1,722.8,1268,Postlaminectomy syndrome,720-724.99,Both,1,1,14,musculoskeletal
+1269,1269,-1,722.9,1269,Other and unspecified disc disorder,720-724.99,Both,1,1,14,musculoskeletal
+1270,1270,-1,723,1270,Other disorders of cervical region,720-724.99,,1,0,14,musculoskeletal
+1271,1271,1270,723.1,1271,Torticollis,720-724.99,Both,1,1,14,musculoskeletal
+1272,1272,-1,724.8,1272,Other symptoms referable to back,720-724.99,Both,1,1,14,musculoskeletal
+1273,1273,-1,724.9,1273,Other unspecified back disorders,720-724.99,Both,1,1,14,musculoskeletal
+1274,1274,-1,726,1274,Peripheral enthesopathies and allied syndromes,725-729.99,,1,0,14,musculoskeletal
+1275,1275,1274,726.1,1275,Enthesopathy,725-729.99,Both,1,1,14,musculoskeletal
+1276,1276,1274,726.2,1276,Synoviopathy,725-729.99,Both,1,1,14,musculoskeletal
+1277,1277,1274,726.3,1277,Bursitis,725-729.99,Both,1,1,14,musculoskeletal
+1278,1278,1274,726.4,1278,Calcaneal spur; Exostosis NOS,725-729.99,Both,1,1,14,musculoskeletal
+1279,1279,-1,727,1279,"Other disorders of synovium, tendon, and bursa",725-729.99,,1,0,14,musculoskeletal
+1280,1280,1279,727.1,1280,Synovitis and tenosynovitis,725-729.99,Both,1,1,14,musculoskeletal
+1281,1281,1279,727.2,1281,Bursitis disorders,725-729.99,Both,1,1,14,musculoskeletal
+1282,1282,1279,727.4,1282,"Ganglion and cyst of synovium, tendon, and bursa",725-729.99,Both,1,1,14,musculoskeletal
+1283,1283,1279,727.5,1283,Rupture of synovium,725-729.99,Both,1,1,14,musculoskeletal
+1284,1284,1279,727.6,1284,"Rupture of tendon, nontraumatic",725-729.99,Both,1,1,14,musculoskeletal
+1285,1285,1279,727.7,1285,Contracture of tendon (sheath),725-729.99,Both,1,1,14,musculoskeletal
+1286,1286,-1,728,1286,"Disorders of muscle, ligament, and fascia",725-729.99,Both,1,1,14,musculoskeletal
+1287,1287,1286,728.1,1287,Muscular calcification and ossification,725-729.99,Both,0,1,14,musculoskeletal
+1288,1288,1286,728.2,1288,Laxity of ligament or hypermobility syndrome,725-729.99,Both,0,1,14,musculoskeletal
+1289,1289,1286,728.7,1289,Fasciitis,725-729.99,Both,0,0,14,musculoskeletal
+1290,1290,1289,728.71,1290,Contracture of palmar fascia [Dupuytren's disease],725-729.99,Both,1,1,14,musculoskeletal
+1291,1291,-1,729,1291,Other disorders of soft tissues,725-729.99,,1,0,14,musculoskeletal
+1292,1292,1291,729.1,1292,"Rheumatism, unspecified and fibrositis",725-729.99,Both,1,1,14,musculoskeletal
+1293,1293,1291,729.3,1293,Panniculitis,725-729.99,Both,0,1,14,musculoskeletal
+1294,1294,-1,731,1294,Osteitis deformans and osteopathies associated with other disorders classified elsewhere,730-739.99,,1,0,14,musculoskeletal
+1295,1295,1294,731.1,1295,Osteitis deformans [Paget's disease of bone],730-739.99,Both,1,1,14,musculoskeletal
+1296,1296,-1,732,1296,Osteochondropathies,730-739.99,,1,0,14,musculoskeletal
+1297,1297,1296,732.1,1297,Juvenile osteochondrosis,730-739.99,Both,1,1,14,musculoskeletal
+1298,1298,1296,732.7,1298,Osteochondritis dissecans,730-739.99,Both,1,1,14,musculoskeletal
+1299,1299,-1,733,1299,Other disorders of bone and cartilage,730-739.99,Both,1,0,14,musculoskeletal
+1300,1300,1299,733.2,1300,Cyst of bone,730-739.99,Both,1,1,14,musculoskeletal
+1301,1301,1299,733.4,1301,Aseptic necrosis of bone,730-739.99,Both,0,1,14,musculoskeletal
+1302,1302,1299,733.8,1302,Malunion and nonunion of fracture,730-739.99,Both,0,1,14,musculoskeletal
+1303,1303,-1,735,1303,Acquired foot deformities,735-739.99,,1,0,14,musculoskeletal
+1304,1304,1303,735.1,1304,Flat foot,735-739.99,Both,1,1,14,musculoskeletal
+1305,1305,1303,735.2,1305,Acquired toe deformities,735-739.99,Both,1,0,14,musculoskeletal
+1306,1306,1305,735.21,1306,Hammer toe (acquired),735-739.99,Both,1,1,14,musculoskeletal
+1307,1307,1305,735.23,1307,Hallux rigidus,735-739.99,Both,1,1,14,musculoskeletal
+1308,1308,1303,735.3,1308,Hallux valgus (Bunion),735-739.99,Both,1,1,14,musculoskeletal
+1309,1309,-1,736,1309,Other acquired deformities of limbs,735-739.99,,1,0,14,musculoskeletal
+1310,1310,1309,736.2,1310,Acquired deformities of finger,735-739.99,Both,1,1,14,musculoskeletal
+1311,1311,-1,737,1311,Curvature of spine,735-739.99,,1,0,14,musculoskeletal
+1312,1312,1311,737.1,1312,Kyphosis (acquired),735-739.99,Both,1,1,14,musculoskeletal
+1313,1313,1311,737.2,1313,Lordosis (acquired),735-739.99,Both,1,1,14,musculoskeletal
+1314,1314,1311,737.3,1314,Kyphoscoliosis and scoliosis,735-739.99,Both,1,1,14,musculoskeletal
+1315,1315,-1,738,1315,Other acquired musculoskeletal deformity,735-739.99,,1,0,14,musculoskeletal
+1316,1316,1315,738.4,1316,Acquired spondylolisthesis,735-739.99,Both,1,1,14,musculoskeletal
+1317,1317,-1,739,1317,Contracture of joint,735-739.99,,1,1,14,musculoskeletal
+1318,1318,-1,740.1,1318,Osteoarthritis; localized,740-740.99,Both,1,0,14,musculoskeletal
+1319,1319,1318,740.11,1319,"Osteoarthrosis, localized, primary",740-740.99,Both,1,1,14,musculoskeletal
+1320,1320,1318,740.12,1320,"Osteoarthrosis, localized, secondary",740-740.99,Both,1,1,14,musculoskeletal
+1321,1321,-1,740.2,1321,"Osteoarthrosis, generalized",740-740.99,Both,1,1,14,musculoskeletal
+1322,1322,-1,740.9,1322,Osteoarthrosis NOS,740-740.99,Both,1,1,14,musculoskeletal
+1323,1323,-1,741,1323,Symptoms and disorders of the joints,741-742.99,,1,0,14,musculoskeletal
+1324,1324,1323,741.1,1324,Ankylosis of joint,741-742.99,Both,1,1,14,musculoskeletal
+1325,1325,1323,741.2,1325,Stiffness of joint,741-742.99,Both,1,1,14,musculoskeletal
+1326,1326,1323,741.3,1326,Difficulty in walking,741-742.99,Both,1,1,14,musculoskeletal
+1327,1327,1323,741.4,1327,Joint effusions,741-742.99,Both,1,1,14,musculoskeletal
+1328,1328,1323,741.5,1328,Hemarthrosis,741-742.99,Both,1,1,14,musculoskeletal
+1329,1329,1323,741.6,1329,Villonodular synovitis,741-742.99,Both,1,1,14,musculoskeletal
+1330,1330,-1,742,1330,"Derangement of joint, non-traumatic",741-742.99,,1,0,14,musculoskeletal
+1331,1331,1330,742.1,1331,Loose body in joint,741-742.99,Both,1,1,14,musculoskeletal
+1332,1332,1330,742.2,1332,"Pathological, developmental or recurrent dislocation",741-742.99,Both,1,1,14,musculoskeletal
+1333,1333,1330,742.8,1333,Articular cartilage disorder,741-742.99,Both,1,1,14,musculoskeletal
+1334,1334,1330,742.9,1334,Other derangement of joint,741-742.99,Both,1,1,14,musculoskeletal
+1335,1335,-1,743.11,1335,Osteoporosis NOS,743-744.99,Both,1,1,14,musculoskeletal
+1336,1336,-1,743.2,1336,Pathologic fracture,743-744.99,Both,1,0,14,musculoskeletal
+1337,1337,1336,743.21,1337,Pathologic fracture of vertebrae,743-744.99,Both,1,1,14,musculoskeletal
+1338,1338,-1,743.4,1338,Stress fracture,743-744.99,Both,1,1,14,musculoskeletal
+1339,1339,-1,743.9,1339,Osteopenia or other disorder of bone and cartilage,743-744.99,Both,1,1,14,musculoskeletal
+1340,1340,-1,745,1340,Pain in joint,745-745.99,,1,1,14,musculoskeletal
+1341,1341,-1,747,1341,Cardiac and circulatory congenital anomalies,747-747.99,,1,0,15,congenital anomalies
+1342,1342,1341,747.1,1342,Cardiac congenital anomalies,747-747.99,Both,1,0,15,congenital anomalies
+1343,1343,1342,747.11,1343,Cardiac shunt/ heart septal defect,747-747.99,Both,1,1,15,congenital anomalies
+1344,1344,1342,747.12,1344,Valvular heart disease/ heart chambers,747-747.99,Both,1,1,15,congenital anomalies
+1345,1345,1342,747.13,1345,Congenital anomalies of great vessels,747-747.99,Both,1,1,15,congenital anomalies
+1346,1346,1341,747.2,1346,Congenital anomalies of peripheral vascular system,747-747.99,Both,1,1,15,congenital anomalies
+1347,1347,-1,748,1347,"Anomalies of respiratory system, congenital",748-749.99,,1,1,15,congenital anomalies
+1348,1348,-1,749,1348,Congenital anomalies of face and neck,748-749.99,,1,0,15,congenital anomalies
+1349,1349,1348,749.1,1349,Cleft palate,747-759.99,Both,1,1,15,congenital anomalies
+1350,1350,1348,749.2,1350,Congenital anomalies of skull and face bones,748-749.99,Both,1,1,15,congenital anomalies
+1351,1351,-1,750,1351,Digestive congenital anomalies,750-751.99,,1,0,15,congenital anomalies
+1352,1352,1351,750.1,1352,Upper gastrointestinal congenital anomalies,750-751.99,Both,1,0,15,congenital anomalies
+1353,1353,1352,750.11,1353,Esophageal atresia/tracheoesophageal fistula,750-751.99,Both,1,1,15,congenital anomalies
+1354,1354,1352,750.13,1354,Congenital anomalies of mouth/tongue,750-751.99,Both,1,1,15,congenital anomalies
+1355,1355,1352,750.14,1355,Congenital anomalies of esophagus,750-751.99,Both,1,1,15,congenital anomalies
+1356,1356,1352,750.15,1356,Congenital anomalies of stomach,750-751.99,Both,1,1,15,congenital anomalies
+1357,1357,1351,750.2,1357,Lower gastrointestinal congenital anomalies,750-751.99,Both,1,0,15,congenital anomalies
+1358,1358,1357,750.21,1358,Congenital anomalies of intestine,750-751.99,Both,1,1,15,congenital anomalies
+1359,1359,1357,750.22,1359,"Congenital anomaly of gallbladder, bile ducts, liver, pancreas",750-751.99,Both,1,1,15,congenital anomalies
+1360,1360,-1,751.1,1360,Congenital anomalies of genital organs,750-751.99,Both,1,0,15,congenital anomalies
+1361,1361,1360,751.11,1361,Congenital anomalies of female genital organs,750-751.99,Female,1,1,15,congenital anomalies
+1362,1362,1360,751.12,1362,Congenital anomalies of male genital organs,750-751.99,Male,1,1,15,congenital anomalies
+1363,1363,-1,751.2,1363,Congenital anomalies of urinary system,750-751.99,Both,1,0,15,congenital anomalies
+1364,1364,1363,751.21,1364,Cystic kidney disease,750-751.99,Both,1,1,15,congenital anomalies
+1365,1365,1363,751.22,1365,Other specified congenital anomalies of kidney,750-751.99,Both,1,1,15,congenital anomalies
+1366,1366,-1,751.3,1366,Obstructive genitourinary defect,750-751.99,Both,1,1,15,congenital anomalies
+1367,1367,-1,752,1367,Nervous system congenital anomalies,752-754.99,Both,1,0,15,congenital anomalies
+1368,1368,1367,752.1,1368,Neural tube defects,752-754.99,Both,1,0,15,congenital anomalies
+1369,1369,1368,752.11,1369,Spina bifida,752-754.99,Both,1,1,15,congenital anomalies
+1370,1370,1367,752.2,1370,Other specified congenital anomalies of nervous system,752-754.99,Both,1,1,15,congenital anomalies
+1371,1371,-1,753,1371,Congenital anomalies of the eye,752-754.99,,1,0,15,congenital anomalies
+1372,1372,1371,753.1,1372,Congenital cataract and lens anomalies,752-754.99,Both,1,1,15,congenital anomalies
+1373,1373,1371,753.2,1373,Congenital anomalies of posterior segment of eye,752-754.99,Both,1,1,15,congenital anomalies
+1374,1374,-1,754,1374,Congenital musculoskeletal deformities of spine,754-756.99,,1,0,15,congenital anomalies
+1375,1375,1374,754.2,1375,"Spondylolisthesis, congenital",754-756.99,Both,1,1,15,congenital anomalies
+1376,1376,-1,755,1376,Congenital anomalies of limbs,754-756.99,,1,0,15,congenital anomalies
+1377,1377,1376,755.1,1377,Congenital deformities of feet,754-756.99,Both,1,1,15,congenital anomalies
+1378,1378,1376,755.3,1378,Congenital anomaly of fingers/toes,754-756.99,Both,1,1,15,congenital anomalies
+1379,1379,1376,755.4,1379,"Congenital anomalies of upper limb, including shoulder girdle",754-756.99,Both,1,1,15,congenital anomalies
+1380,1380,1376,755.6,1380,"Other congenital anomalies of lower limb, including pelvic girdle",754-756.99,Both,1,0,15,congenital anomalies
+1381,1381,1380,755.61,1381,Congenital hip dysplasia and deformity,754-756.99,Both,1,1,15,congenital anomalies
+1382,1382,-1,756,1382,Other congenital musculoskeletal anomalies,754-756.99,,1,0,15,congenital anomalies
+1383,1383,1382,756.1,1383,Congenital anomalies of abdominal wall; diaphram,754-756.99,Both,1,1,15,congenital anomalies
+1384,1384,1382,756.2,1384,Pectus and other congenital anomalies of ribs/sternum,754-756.99,Both,1,0,15,congenital anomalies
+1385,1385,1384,756.21,1385,Pectus excavatum,754-756.99,Both,1,1,15,congenital anomalies
+1386,1386,1384,756.22,1386,Pectus carinatum,754-756.99,Both,1,1,15,congenital anomalies
+1387,1387,1382,756.3,1387,"Congenital anomalies of muscle, tendon, fascia, and connective tissue",754-756.99,Both,1,1,15,congenital anomalies
+1388,1388,1382,756.5,1388,Congenital osteodystrophies,754-756.99,Both,1,1,15,congenital anomalies
+1389,1389,-1,757,1389,Congenital anomalies of the integument,756-759.99,,1,1,15,congenital anomalies
+1390,1390,-1,758,1390,Chromosomal anomalies and genetic disorders,756-759.99,,1,0,15,congenital anomalies
+1391,1391,1390,758.1,1391,Chromosomal anomalies,756-759.99,Both,1,1,15,congenital anomalies
+1392,1392,-1,759,1392,Other and unspecified congenital anomalies,756-759.99,,1,0,15,congenital anomalies
+1393,1393,1392,759.1,1393,"Anomalies of endocrine glands, congenital",756-759.99,Both,1,1,15,congenital anomalies
+1394,1394,-1,760,1394,Back pain,760-760.99,,1,1,17,symptoms
+1395,1395,-1,761,1395,Cervicalgia,761-761.99,,1,1,17,symptoms
+1396,1396,-1,764,1396,Sciatica,763-767.99,,1,1,17,symptoms
+1397,1397,-1,765,1397,Cervical radiculitis,763-767.99,,1,1,17,symptoms
+1398,1398,-1,766,1398,"Neuralgia, neuritis, and radiculitis NOS",763-767.99,,1,1,17,symptoms
+1399,1399,-1,769,1399,Nonallopathic lesions NEC,769-769.99,,1,1,17,symptoms
+1400,1400,-1,770,1400,Myalgia and myositis unspecified,770-770.99,,1,1,17,symptoms
+1401,1401,-1,771,1401,Musculoskeletal symptoms referable to limbs,771-771.99,Both,1,1,17,symptoms
+1402,1402,1401,771.1,1402,Swelling of limb,771-771.99,Both,0,1,17,symptoms
+1403,1403,-1,772,1403,Symptoms of the muscles,772-772.99,,1,1,17,symptoms
+1404,1404,1403,772.1,1404,Muscular wasting and disuse atrophy,772-772.99,Both,0,1,17,symptoms
+1405,1405,-1,773,1405,Pain in limb,773-773.99,,1,0,17,symptoms
+1406,1406,-1,780,1406,Hypothermia/Chills,780-780.99,,1,1,17,symptoms
+1407,1407,-1,781,1407,Symptoms involving nervous and musculoskeletal systems,781-781.99,,1,1,17,symptoms
+1408,1408,1407,781.2,1408,Abnormal posture,781-781.99,Both,0,1,17,symptoms
+1409,1409,-1,782.3,1409,Edema,782-782.99,Both,0,1,17,symptoms
+1410,1410,-1,782.6,1410,Pallor and flushing,782-782.99,Both,0,1,17,symptoms
+1411,1411,-1,783,1411,Fever of unknown origin,783-783.99,,1,0,17,symptoms
+1412,1412,-1,785,1412,Abdominal pain,785-785.99,,1,1,17,symptoms
+1413,1413,-1,788,1413,Syncope and collapse,788-788.99,,1,1,17,symptoms
+1414,1414,-1,789,1414,Nausea and vomiting,789-789.99,,1,0,17,symptoms
+1415,1415,-1,790,1415,Nonspecific findings on examination of blood,790-790.99,Both,1,1,17,symptoms
+1416,1416,1415,790.1,1416,Elevated sedimentation rate,790-790.99,Both,0,1,17,symptoms
+1417,1417,1415,790.6,1417,Other abnormal blood chemistry,790-790.99,Both,0,1,17,symptoms
+1418,1418,-1,791,1418,Gangrene,791-791.99,,1,1,17,symptoms
+1419,1419,-1,793,1419,Nonspecific abnormal findings on radiological and other examination of musculoskeletal system,793-793.99,Both,1,0,17,symptoms
+1420,1420,1419,793.2,1420,"Nonspecific abnormal findings on radiological and other examination of other intrathoracic organs (echocardiogram, etc)",793-793.99,Both,0,0,17,symptoms
+1421,1421,-1,794,1421,"Abnormal results of other function studies (bladder, pancreas, placenta, spleen, etc)",794-794.99,,1,1,17,symptoms
+1422,1422,-1,797,1422,Shock,797-797.99,,1,0,17,symptoms
+1423,1423,1422,797.1,1423,Cardiogenic shock,797-797.99,Both,1,1,17,symptoms
+1424,1424,-1,798,1424,Malaise and fatigue,798-798.99,,1,0,17,symptoms
+1425,1425,1424,798.1,1425,Chronic fatigue syndrome,798-798.99,,1,1,17,symptoms
+1426,1426,-1,800,1426,Fracture of lower limb,800-809.99,,1,0,18,injuries & poisonings
+1427,1427,1426,800.1,1427,Fracture of neck of femur,800-809.99,Both,1,1,18,injuries & poisonings
+1428,1428,1426,800.2,1428,Fracture of unspecified part of femur,800-809.99,Both,1,1,18,injuries & poisonings
+1429,1429,1426,800.3,1429,Fracture of tibia and fibula,800-809.99,Both,1,1,18,injuries & poisonings
+1430,1430,1426,800.4,1430,Fracture of patella,800-809.99,Both,1,1,18,injuries & poisonings
+1431,1431,-1,801,1431,Fracture of ankle and foot,800-809.99,Both,1,0,18,injuries & poisonings
+1432,1432,-1,802,1432,Fracture of pelvis,800-809.99,,1,1,18,injuries & poisonings
+1433,1433,-1,803,1433,Fracture of upper limb,800-809.99,Both,1,0,18,injuries & poisonings
+1434,1434,1433,803.1,1434,Fracture of humerus,800-809.99,Both,1,1,18,injuries & poisonings
+1435,1435,1433,803.2,1435,Fracture of radius and ulna,800-809.99,Both,1,0,18,injuries & poisonings
+1436,1436,1433,803.3,1436,Fracture of clavicle or scapula,800-809.99,,1,1,18,injuries & poisonings
+1437,1437,-1,804,1437,Fracture of hand or wrist,800-809.99,Both,1,1,18,injuries & poisonings
+1438,1438,-1,805,1438,Fracture of vertebral column without mention of spinal cord injury,800-809.99,,1,1,18,injuries & poisonings
+1439,1439,-1,807,1439,Fracture of ribs,800-809.99,,1,1,18,injuries & poisonings
+1440,1440,-1,809,1440,Fracture of unspecified bones,800-809.99,Both,1,1,18,injuries & poisonings
+1441,1441,-1,817,1441,Concussion,816-819.99,,1,1,18,injuries & poisonings
+1442,1442,-1,818,1442,Intracranial hemorrhage (injury),816-819.99,,1,0,18,injuries & poisonings
+1443,1443,-1,819,1443,Skull and face fracture and other intercranial injury,816-819.99,Both,1,1,18,injuries & poisonings
+1444,1444,-1,830,1444,Dislocation,830-839.99,,1,1,18,injuries & poisonings
+1445,1445,-1,835,1445,Internal derangement of knee,830-839.99,Both,1,1,18,injuries & poisonings
+1446,1446,-1,836,1446,Traumatic arthropathy,830-839.99,Both,1,1,18,injuries & poisonings
+1447,1447,-1,840,1447,Sprains and strains,840-848.99,,1,0,18,injuries & poisonings
+1448,1448,1447,840.3,1448,Joint/ligament sprain,840-848.99,Both,1,1,18,injuries & poisonings
+1449,1449,-1,850,1449,Hemorrhage or hematoma complicating a procedure,850-859.99,Both,1,1,18,injuries & poisonings
+1450,1450,-1,851,1450,Complications of transplants and reattached limbs,850-859.99,Both,1,1,18,injuries & poisonings
+1451,1451,-1,853,1451,Complication of colostomy or enterostomy,850-859.99,Both,1,1,18,injuries & poisonings
+1452,1452,-1,854,1452,"Complications of cardiac/vascular device, implant, and graft",850-859.99,,1,1,18,injuries & poisonings
+1453,1453,-1,857,1453,"Mechanical complication of unspecified genitourinary device, implant, and graft",850-859.99,Both,1,1,18,injuries & poisonings
+1454,1454,-1,858,1454,Complication of internal orthopedic device,850-859.99,Both,1,1,18,injuries & poisonings
+1455,1455,-1,859,1455,Complication due to other implant and internal device,850-859.99,Both,1,1,18,injuries & poisonings
+1456,1456,-1,860,1456,Bone marrow or stem cell transplant,860-860.99,Both,1,1,2,neoplasms
+1457,1457,-1,870,1457,Open wounds of head; neck; and trunk,870-879.99,,1,0,18,injuries & poisonings
+1458,1458,1457,870.1,1458,Open wound or laceration of eye or eyelid,870-879.99,Both,1,1,18,injuries & poisonings
+1459,1459,1457,870.2,1459,Open wound of ear,870-879.99,Both,1,1,18,injuries & poisonings
+1460,1460,1457,870.3,1460,Other open wound of head and face,870-879.99,Both,1,1,18,injuries & poisonings
+1461,1461,1457,870.4,1461,Open wound of nose and sinus,870-879.99,Both,1,1,18,injuries & poisonings
+1462,1462,1457,870.6,1462,Open wound of neck,870-879.99,Both,1,1,18,injuries & poisonings
+1463,1463,1457,870.8,1463,Open wound of genital organs,870-879.99,Both,1,1,18,injuries & poisonings
+1464,1464,-1,871,1464,Open wounds of extremities,870-879.99,Both,1,0,18,injuries & poisonings
+1465,1465,1464,871.3,1465,Open wound of foot except toe(s) alone,870-879.99,Both,1,1,18,injuries & poisonings
+1466,1466,1464,871.4,1466,Open wound of toe(s),870-879.99,Both,1,1,18,injuries & poisonings
+1467,1467,-1,872,1467,Traumatic amputation,870-879.99,Both,1,1,18,injuries & poisonings
+1468,1468,-1,874,1468,Complication of amputation stump,870-879.99,Both,1,1,18,injuries & poisonings
+1469,1469,-1,907,1469,Injuries to the nervous system,905-909.99,,1,1,18,injuries & poisonings
+1470,1470,-1,913,1470,Toxic effect of venom,912-913.99,Both,1,1,18,injuries & poisonings
+1471,1471,-1,915,1471,Superficial injury without mention of infection,910-919.99,Both,1,0,18,injuries & poisonings
+1472,1472,-1,916,1472,Contusion,916-916.99,Both,1,1,18,injuries & poisonings
+1473,1473,-1,930,1473,Allergic reaction to food,930-949.99,,1,1,18,injuries & poisonings
+1474,1474,-1,931,1474,Contact dermatitis and other eczema due to plants [except food],930-949.99,Both,1,1,13,dermatologic
+1475,1475,-1,938,1475,Dermatitis due to solar radiation,930-949.99,Both,1,0,13,dermatologic
+1476,1476,1475,938.1,1476,Acute dermatitis due to solar radiation,930-949.99,Both,1,1,13,dermatologic
+1477,1477,1475,938.2,1477,Chronic dermatitis due to solar radiation,930-949.99,Both,1,1,13,dermatologic
+1478,1478,-1,939,1478,Atopic/contact dermatitis due to other or unspecified,930-949.99,,1,0,13,dermatologic
+1479,1479,-1,941,1479,Adverse reaction to serum or vaccine,930-949.99,Both,1,1,18,injuries & poisonings
+1480,1480,-1,942,1480,Infusion and transfusion reaction,930-949.99,Both,1,1,18,injuries & poisonings
+1481,1481,-1,946,1481,Anaphylactic shock NOS,930-949.99,Both,1,1,18,injuries & poisonings
+1482,1482,-1,947,1482,Urticaria,930-949.99,Both,1,1,13,dermatologic
+1483,1483,-1,949,1483,"Allergies, other",930-949.99,Both,1,1,18,injuries & poisonings
+1484,1484,1483,949.1,1484,Diaper or napkin rash,930-949.99,Both,0,1,18,injuries & poisonings
+1485,1485,-1,952,1485,Spinal cord injury without evidence of spinal bone injury,950-957.99,,1,1,18,injuries & poisonings
+1486,1486,-1,958,1486,Certain early complications of trauma or procedure,958-959.99,,1,0,18,injuries & poisonings
+1487,1487,1486,958.1,1487,Postoperative shock,958-959.99,Both,1,1,18,injuries & poisonings
+1488,1488,1486,958.2,1488,Traumatic and surgical subcutaneous emphysema,958-959.99,Both,1,1,18,injuries & poisonings
+1489,1489,-1,960,1489,Poisoning by antibiotics,960-979.99,,1,0,18,injuries & poisonings
+1490,1490,1489,960.1,1490,Adverse effects of antibacterials (not penicillins),960-979.99,Both,1,1,18,injuries & poisonings
+1491,1491,1489,960.2,1491,Allergy/adverse effect of penicillin,960-979.99,Both,1,1,18,injuries & poisonings
+1492,1492,-1,961,1492,Poisoning by other anti-infectives,960-979.99,,1,1,18,injuries & poisonings
+1493,1493,1492,961.1,1493,Poisoning/allergy of sulfonamides,960-979.99,Both,0,1,18,injuries & poisonings
+1494,1494,-1,962,1494,Poisoning by hormones and synthetic substitutes,960-979.99,,1,0,18,injuries & poisonings
+1495,1495,1494,962.3,1495,Hormones and synthetic substitutes causing adverse effects in therapeutic use,960-979.99,Both,1,1,18,injuries & poisonings
+1496,1496,-1,963,1496,Poisoning by primarily systemic agents,960-979.99,,1,0,18,injuries & poisonings
+1497,1497,1496,963.1,1497,Antineoplastic and immunosuppressive drugs causing adverse effects,960-979.99,Both,1,1,18,injuries & poisonings
+1498,1498,-1,964,1498,Poisoning by agents primarily affecting blood constituents,960-979.99,,1,0,18,injuries & poisonings
+1499,1499,1498,964.1,1499,Anticoagulants causing adverse effects,960-979.99,Both,1,1,18,injuries & poisonings
+1500,1500,-1,965,1500,"Poisoning by analgesics, antipyretics, and antirheumatics",960-979.99,,1,0,18,injuries & poisonings
+1501,1501,1500,965.1,1501,Opiates and related narcotics causing adverse effects in therapeutic use,960-979.99,Both,0,1,18,injuries & poisonings
+1502,1502,1500,965.3,1502,Salicylates causing adverse effects in therapeutic use,960-979.99,Both,1,1,18,injuries & poisonings
+1503,1503,-1,966,1503,Poisoning by anticonvulsants and anti-Parkinsonism drugs,960-979.99,,1,1,18,injuries & poisonings
+1504,1504,-1,967,1504,Adverse effects of sedatives or other central nervous system depressants and anesthetics,960-979.99,,1,1,18,injuries & poisonings
+1505,1505,-1,969,1505,Poisoning by psychotropic agents,960-979.99,,1,1,18,injuries & poisonings
+1506,1506,-1,971,1506,Poisoning by drugs primarily affecting the autonomic nervous system,960-979.99,,1,1,18,injuries & poisonings
+1507,1507,-1,972,1507,Poisoning by agents primarily affecting the cardiovascular system,960-979.99,,1,0,18,injuries & poisonings
+1508,1508,-1,973,1508,Poisoning by agents primarily affecting the gastrointestinal system,960-979.99,,1,1,18,injuries & poisonings
+1509,1509,-1,974,1509,"Poisoning by water, mineral, and uric acid metabolism drugs",960-979.99,,1,1,18,injuries & poisonings
+1510,1510,-1,975,1510,Poisoning by agents primarily acting on the smooth and skeletal muscles and respiratory system,960-979.99,,1,1,18,injuries & poisonings
+1511,1511,-1,976,1511,"Poisoning by agents primarily affecting skin & mucous membrane, ophthalmological, otorhinolaryngological, & dental drugs",960-979.99,,1,1,18,injuries & poisonings
+1512,1512,-1,979,1512,Adverse drug events and drug allergies,960-979.99,Both,1,1,18,injuries & poisonings
+1513,1513,-1,981,1513,Toxic effect of (non-ethyl) alcohol and petroleum and other solvents,981-989.99,,1,1,18,injuries & poisonings
+1514,1514,-1,983,1514,"Toxic effect of corrosive aromatics, acids, and caustic alkalis",981-989.99,,1,1,18,injuries & poisonings
+1515,1515,-1,985,1515,Toxic effect of other metals,981-989.99,,1,1,18,injuries & poisonings
+1516,1516,-1,986,1516,Toxic effect of carbon monoxide,981-989.99,,1,1,18,injuries & poisonings
+1517,1517,-1,987,1517,"Toxic effect of other gases, fumes, or vapors",981-989.99,,1,1,18,injuries & poisonings
+1518,1518,-1,988,1518,Toxic effect of noxious substances eaten as food,981-989.99,,1,1,18,injuries & poisonings
+1519,1519,-1,989,1519,"Toxic effect of other substances, chiefly nonmedicinal as to source",981-989.99,,1,1,18,injuries & poisonings
+1520,1520,-1,990,1520,Effects radiation NOS,990-995.99,,1,1,18,injuries & poisonings
+1521,1521,-1,1000,1521,Burns,,Both,1,0,0,
+1522,1522,-1,1001,1522,Foreign body injury,,Both,1,0,0,
+1523,1523,-1,1002,1523,"Symptoms concerning nutrition, metabolism, and development",,Both,1,0,0,
+1524,1524,-1,1004,1524,Other signs and symptoms involving emotional state,,Both,1,0,0,
+1525,1525,-1,1005,1525,Other symptoms,,Both,1,0,0,
+1526,1526,-1,1006,1526,Crushing injury,,Both,1,0,0,
+1527,1527,-1,1007,1527,Injury to blood vessels,,Both,1,0,0,
+1528,1528,-1,1008,1528,Crushing or internal injury to organs,,Both,1,0,0,
+1529,1529,-1,1009,1529,"Injury, NOS",,,1,0,0,
+1530,1530,-1,1010,1530,Other tests,,Both,1,0,0,
+1531,1531,-1,1011,1531,Complications of surgical and medical procedures,,Both,1,0,0,
+1532,1532,-1,1012,1532,Late effect,,Both,1,0,0,
+1533,1533,-1,1013,1533,Asphyxia and hypoxemia,,Both,1,0,0,
+1534,1534,-1,1014,1534,"Effects of heat, cold and air pressure",,Both,1,0,0,
+1535,1535,-1,1015,1535,Effects of other external causes,,Both,1,0,0,
+1536,1536,-1,1019,1536,Other ill-defined and unknown causes of morbidity and mortality,,Both,1,0,0,
+1537,1537,-1,1100,1537,Family history,,Both,1,0,0,
